@@ -1,0 +1,1350 @@
+﻿Log file open, 12/14/17 15:24:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BowlerBall
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1529711858) SRandInit(1529711858).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 85.748480
+LogD3D11RHI: Aftermath initialized
+LogConfig: Warning: Failed to saved backup for config[Engine]
+LogConfig: Warning: Failed to saved backup for config[Editor]
+LogConfig: Warning: Failed to saved backup for config[EditorPerProjectUserSettings]
+LogConfig: Warning: Failed to saved backup for config[EditorSettings]
+LogConfig: Warning: Failed to saved backup for config[Compat]
+LogConfig: Warning: Failed to saved backup for config[Lightmass]
+LogConfig: Warning: Failed to saved backup for config[Hardware]
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogConfig: Warning: Failed to saved backup for config[PhysXVehicles]
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.14-22.24.44:010][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.14-22.24.44:010][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.14-22.24.44:564][  0]LogInit: Computer: DESKTOP-OEP2RU7
+[2017.12.14-22.24.44:564][  0]LogInit: User: Tyson
+[2017.12.14-22.24.44:564][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.14-22.24.44:564][  0]LogInit: High frequency timer resolution =3.429530 MHz
+[2017.12.14-22.24.44:623][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.14-22.24.44:623][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.14-22.24.44:623][  0]LogMemory: Process Physical Memory: 280.69 MB used, 280.69 MB peak
+[2017.12.14-22.24.44:623][  0]LogMemory: Process Virtual Memory: 276.00 MB used, 276.00 MB peak
+[2017.12.14-22.24.44:623][  0]LogMemory: Physical Memory: 4318.32 MB used,  11964.02 MB free, 16282.34 MB total
+[2017.12.14-22.24.44:623][  0]LogMemory: Virtual Memory: 737.21 MB used,  11964.02 MB free, 134217728.00 MB total
+[2017.12.14-22.24.50:109][  0]LogInit: Using OS detected language (en-US).
+[2017.12.14-22.24.50:109][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.14-22.24.51:297][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.14-22.24.54:904][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.14-22.25.20:539][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.14-22.25.21:235][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.14-22.25.21:235][  0]LogD3D11RHI:       8096/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.14-22.25.21:239][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.14-22.25.21:239][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.14-22.25.21:239][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.14-22.25.21:334][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.14-22.25.21:357][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.14-22.25.21:357][  0]LogWindows: EnumDisplayDevices:
+[2017.12.14-22.25.21:358][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.14-22.25.21:388][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.14-22.25.21:388][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.14-22.25.21:389][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.14-22.25.21:389][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.14-22.25.21:389][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.14-22.25.21:389][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.14-22.25.21:389][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.14-22.25.21:389][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.14-22.25.21:611][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.14-22.25.22:950][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 5)
+[2017.12.14-22.25.23:649][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Intermediate/Shaders/WorkingDirectory/4520/).
+[2017.12.14-22.25.23:649][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyson/AppData/Local/Temp/UnrealShaderWorkingDir/F3A0F9164F71674D0DDEAC9D131BCB1B/'.
+[2017.12.14-22.25.23:692][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.14-22.25.59:881][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.14-22.25.59:989][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.14-22.26.00:122][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.14-22.26.00:247][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.14-22.26.00:866][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.14-22.26.01:008][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.14-22.26.01:205][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.14-22.26.01:335][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.14-22.26.01:578][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.14-22.26.01:812][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.14-22.26.01:948][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.14-22.26.02:179][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.14-22.26.02:390][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.14-22.26.03:008][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.14-22.26.03:302][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.14-22.26.03:302][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.14-22.26.03:515][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.14-22.26.03:640][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.14-22.26.04:287][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.14-22.26.04:462][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.14-22.26.04:815][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.14-22.26.05:276][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.14-22.26.05:865][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.14-22.26.06:357][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.14-22.26.06:438][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.14-22.26.16:687][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.14-22.26.31:351][  0]LogDerivedDataCache: Loaded boot cache 14.61s 78MB C:/Users/Tyson/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.14-22.26.31:462][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyson/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.14-22.26.31:462][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.14-22.26.31:462][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.14-22.26.31:462][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.14-22.26.31:462][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.14-22.26.32:087][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.14-22.26.32:234][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.14-22.26.33:925][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.14-22.26.35:218][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.14-22.26.37:835][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.14-22.26.38:098][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.14-22.27.35:812][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.14-22.27.50:593][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.14-22.27.51:587][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.14-22.27.51:662][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.14-22.27.51:663][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.14-22.27.51:663][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.14-22.27.51:663][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.14-22.27.58:604][  0]LogNetVersion: BowlerBall , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1227897878)
+[2017.12.14-22.28.13:233][  0]LogAssetRegistry: FAssetRegistry took 0.4026 seconds to start up
+[2017.12.14-22.28.15:272][  0]LogConfig: Warning: Failed to saved backup for config[GameplayTagsList]
+[2017.12.14-22.28.51:546][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Intermediate/AssetRegistryCache/2657c409.bin
+[2017.12.14-22.28.51:589][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Intermediate/AssetRegistryCache/50d6f4e0.bin
+[2017.12.14-22.28.51:622][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 2.096845 seconds
+[2017.12.14-22.28.52:412][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.14-22.28.52:412][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.14-22.28.52:412][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.14-22.28.52:860][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.14-22.32.28:981][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Intermediate/CachedAssetRegistry.bin
+[2017.12.14-22.32.29:779][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.14-22.32.29:909][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.14-22.32.35:070][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.14-22.32.37:472][  0]SourceControl: Source control is disabled
+[2017.12.14-22.32.48:039][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.14-22.32.48:817][  0]LogOcInput: OculusInput pre-init called
+[2017.12.14-22.32.52:511][  0]LogEngine: Initializing Engine...
+[2017.12.14-22.32.52:631][  0]LogHMD: Oculus plugin initialized. Version: 4.18.1-3754814+++UE4+Release-4.18, OVRPlugin: 1.19.0
+[2017.12.14-22.32.54:614][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.14-22.32.54:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.14-22.32.56:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.14-22.32.56:584][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.32.56:987][  0]LogInit: FAudioDevice initialized.
+[2017.12.14-22.32.57:098][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Tyson/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.14-22.32.57:121][  0]LogInit: Texture streaming: Enabled
+[2017.12.14-22.32.57:908][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.14-22.32.59:591][  0]LogInit: Transaction tracking system initialized
+[2017.12.14-22.33.03:327][  0]BlueprintLog: New page: Editor Load
+[2017.12.14-22.33.12:897][  0]LocalizationService: Localization service is disabled
+[2017.12.14-22.33.18:665][  0]LogConsoleResponse: Display: 
+[2017.12.14-22.33.26:413][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/' took 0.05s
+[2017.12.14-22.33.26:413][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.14-22.33.26:422][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.14-22.33.26:435][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.14-22.33.35:819][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.14-22.33.35:886][  0]LightingResults: New page: Lighting Build
+[2017.12.14-22.33.37:300][  0]MapCheck: New page: Map Check
+[2017.12.14-22.33.37:300][  0]LightingResults: New page: Lighting Build
+[2017.12.14-22.33.44:429][  0]LogStaticMesh: Building static mesh Bumper...
+[2017.12.14-22.33.45:368][  0]LogStaticMesh: Built static mesh [1.00s] /Game/Assets/Bumper.Bumper
+[2017.12.14-22.33.47:167][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Tyson/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/7/STATICMESH_8A752B9E4A904F25B0AB9D65A70A8BDC_228332BAE0224DD294E232B87D83948F1$__C4D70F318A68ADEADD834F09055F52B64B3A84B9.udd.
+[2017.12.14-22.33.47:170][  0]LogMaterial: Missing cached shader map for material Transparent, compiling. 
+[2017.12.14-22.33.47:307][  0]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.12.14-22.33.47:527][  0]LogMaterial: Missing cached shader map for material ballmesh, compiling. 
+[2017.12.14-22.33.48:961][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Tyson/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/1/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_5BE5CFEB440ABFED93E0489D626F008E__1_0_0_0_3_13315_0.udd.
+[2017.12.14-22.33.48:961][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Tyson/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/1/PHYSX_3B0AB674B19F4A698B28F7025C031EA2_PHYSXPC_BCACA29A4196EF7F3A10FF9BA8B3F96B__1_0_0_0_3_13315_0.udd.
+[2017.12.14-22.33.49:156][  0]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.33.54:055][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.14-22.33.54:999][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.14-22.33.55:166][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 166.411ms to complete.
+[2017.12.14-22.33.55:166][  0]LogFileHelpers: Loading map 'TestPlatform' took 19.411
+[2017.12.14-22.34.02:992][  0]LogCollectionManager: Loaded 0 collections in 0.006851 seconds
+[2017.12.14-22.34.03:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Collections/' took 0.01s
+[2017.12.14-22.34.03:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Developers/Tyson/Collections/' took 0.01s
+[2017.12.14-22.34.03:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Collections/' took 0.01s
+[2017.12.14-22.34.03:402][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.14-22.34.03:580][  0]LogContentBrowser: Native class hierarchy populated in 0.0970 seconds. Added 2363 classes and 519 folders.
+[2017.12.14-22.34.03:977][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.14-22.34.09:792][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.12.14-22.34.10:094][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.14-22.34.11:786][  0]LogSlate: Took 0.063988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.14-22.34.12:069][  0]LogSlate: Took 0.243406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.14-22.34.13:156][  0]LogSlate: Took 0.273052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.14-22.34.15:468][  0]LogRenderer: Reallocating scene render targets to support 852x484 Format 10 NumSamples 1 (Frame:1).
+[2017.12.14-22.34.19:010][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.14-22.34.19:010][  0]LogLoad: (Engine Initialization) Total time: 800.74 seconds
+[2017.12.14-22.34.19:010][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.14-22.34.19:349][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.14-22.34.19:753][  0]LogOcInput: OculusInput is initialized
+[2017.12.14-22.34.20:188][  0]SourceControl: On branch master
+[2017.12.14-22.34.20:188][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.14-22.34.20:188][  0]SourceControl: Changes not staged for commit:
+[2017.12.14-22.34.20:188][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.14-22.34.20:188][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.14-22.34.20:188][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.14-22.34.20:188][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.14-22.34.20:188][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2017.12.14-22.34.20:188][  0]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.14-22.34.20:188][  0]SourceControl: 	modified:   Saved/Logs/BowlerBall_2.log
+[2017.12.14-22.34.20:188][  0]SourceControl: Untracked files:
+[2017.12.14-22.34.20:188][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.14-22.34.20:188][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-3D9BBAD1463EA9D48EFF8281770008B6/
+[2017.12.14-22.34.20:188][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-E1975E3E40CC9670EB4DDD8FD123BBA1/
+[2017.12.14-22.34.20:188][  0]SourceControl: 	Saved/Logs/BowlerBall-backup-2017.12.14-15.24.21.log
+[2017.12.14-22.34.20:188][  0]SourceControl: 	Saved/Logs/BowlerBall_2-backup-2017.12.14-15.24.21.log
+[2017.12.14-22.34.20:188][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.12.14-22.34.20:228][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.14-22.34.21:070][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/' took 1.29s
+[2017.12.14-22.34.21:399][  1]LogSlate: Took 0.210472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-22.34.22:386][  4]LogAssetRegistry: Asset discovery search completed in 369.1930 seconds
+[2017.12.14-22.34.22:488][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.14-22.34.22:489][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000121 seconds (updated 0 objects)
+[2017.12.14-22.35.27:986][209]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-22.35.29:378][209]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.14-22.35.32:282][209]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2017.12.14-22.35.39:557][209]LogSlate: Took 0.130109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.14-22.35.42:529][210]LogSlate: Took 0.455759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.14-22.35.49:073][443]LogRenderer: Reallocating scene render targets to support 1016x596 Format 10 NumSamples 1 (Frame:244).
+[2017.12.14-22.35.56:104][871]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.36.15:837][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.36.15:837][871]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.36.32:208][871]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:36:31 AM)
+[2017.12.14-22.36.32:208][871]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.36.32:213][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004835s)
+[2017.12.14-22.36.32:214][871]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.36.32:214][871]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2017.12.14-22.36.32:214][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.006175s)
+[2017.12.14-22.36.32:424][871]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.36.32:445][871]LogInit: FAudioDevice initialized.
+[2017.12.14-22.36.33:252][871]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.36.34:025][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 3) at 2017.12.14-15.36.34
+[2017.12.14-22.36.34:177][871]LogWorld: Bringing up level for play took: 0.179149
+[2017.12.14-22.36.36:731][871]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.12.14-22.36.37:651][871]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 20.913
+[2017.12.14-22.37.18:660][744]LogRenderer: Reallocating scene render targets to support 1016x688 Format 10 NumSamples 1 (Frame:1).
+[2017.12.14-22.37.26:627][368]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.37.26:655][368]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.37.27:160][368]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.37.30:837][368]LogPlayLevel: PlayLevel: Blueprint regeneration took 4182 ms (1 blueprints)
+[2017.12.14-22.37.30:837][368]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.37.31:160][368]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:37:31 AM)
+[2017.12.14-22.37.31:160][368]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.37.31:835][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.675329s)
+[2017.12.14-22.37.31:836][368]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.37.31:836][368]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2017.12.14-22.37.31:837][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.676471s)
+[2017.12.14-22.37.31:917][368]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.37.31:933][368]LogInit: FAudioDevice initialized.
+[2017.12.14-22.37.32:022][368]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.37.32:024][368]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.37.32
+[2017.12.14-22.37.32:024][368]LogWorld: Bringing up level for play took: 0.001708
+[2017.12.14-22.37.32:025][368]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 5.288
+[2017.12.14-22.37.41:687][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.37.43:028][ 60]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.37.43:057][ 60]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.37.43:848][ 60]LogPlayLevel: PlayLevel: Blueprint regeneration took 820 ms (1 blueprints)
+[2017.12.14-22.37.43:848][ 60]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.37.43:880][ 60]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:37:43 AM)
+[2017.12.14-22.37.43:880][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.37.43:884][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004458s)
+[2017.12.14-22.37.43:885][ 60]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.37.43:885][ 60]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2017.12.14-22.37.43:885][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005540s)
+[2017.12.14-22.37.43:962][ 60]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.37.43:979][ 60]LogInit: FAudioDevice initialized.
+[2017.12.14-22.37.44:013][ 60]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.37.44:015][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.37.44
+[2017.12.14-22.37.44:015][ 60]LogWorld: Bringing up level for play took: 0.001908
+[2017.12.14-22.37.44:017][ 60]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.279
+[2017.12.14-22.37.54:816][798]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.38.37:410][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.14-22.38.38:197][798]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.38.38:335][798]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.38.39:324][798]LogPlayLevel: PlayLevel: Blueprint regeneration took 1126 ms (1 blueprints)
+[2017.12.14-22.38.39:324][798]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.38.42:441][798]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:38:42 AM)
+[2017.12.14-22.38.42:441][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.38.42:993][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.551592s)
+[2017.12.14-22.38.42:994][798]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.38.42:994][798]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2017.12.14-22.38.42:994][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.553050s)
+[2017.12.14-22.38.43:338][798]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.38.43:352][798]LogInit: FAudioDevice initialized.
+[2017.12.14-22.38.43:385][798]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.38.43:388][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 3) at 2017.12.14-15.38.43
+[2017.12.14-22.38.43:388][798]LogWorld: Bringing up level for play took: 0.001827
+[2017.12.14-22.38.43:389][798]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 4.652
+[2017.12.14-22.39.06:406][239]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.39.06:450][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.39.06:450][239]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.39.06:486][239]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:39:06 AM)
+[2017.12.14-22.39.06:486][239]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.39.06:492][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005674s)
+[2017.12.14-22.39.06:493][239]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.39.06:493][239]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2017.12.14-22.39.06:493][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.007056s)
+[2017.12.14-22.39.06:562][239]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.39.06:583][239]LogInit: FAudioDevice initialized.
+[2017.12.14-22.39.06:627][239]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.39.06:630][239]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.39.06
+[2017.12.14-22.39.06:631][239]LogWorld: Bringing up level for play took: 0.002744
+[2017.12.14-22.39.06:634][239]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.104
+[2017.12.14-22.39.33:915][758]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.39.35:736][758]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.39.35:770][758]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.39.36:840][758]LogPlayLevel: PlayLevel: Blueprint regeneration took 1104 ms (1 blueprints)
+[2017.12.14-22.39.36:840][758]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.39.37:191][758]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:39:37 AM)
+[2017.12.14-22.39.37:191][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.39.37:580][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.389203s)
+[2017.12.14-22.39.37:581][758]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.39.37:581][758]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2017.12.14-22.39.37:582][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.390594s)
+[2017.12.14-22.39.37:660][758]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.39.37:677][758]LogInit: FAudioDevice initialized.
+[2017.12.14-22.39.37:711][758]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.39.37:713][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.39.37
+[2017.12.14-22.39.37:713][758]LogWorld: Bringing up level for play took: 0.001702
+[2017.12.14-22.39.37:715][758]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 2.977
+[2017.12.14-22.39.50:174][596]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.40.21:411][596]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.40.21:444][596]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.40.22:650][596]LogPlayLevel: PlayLevel: Blueprint regeneration took 1239 ms (1 blueprints)
+[2017.12.14-22.40.22:650][596]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.40.22:689][596]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:40:22 AM)
+[2017.12.14-22.40.22:689][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.40.23:368][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.679230s)
+[2017.12.14-22.40.23:369][596]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.40.23:369][596]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2017.12.14-22.40.23:369][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.680529s)
+[2017.12.14-22.40.23:446][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.40.23:462][596]LogInit: FAudioDevice initialized.
+[2017.12.14-22.40.23:493][596]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.40.23:495][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 3) at 2017.12.14-15.40.23
+[2017.12.14-22.40.23:496][596]LogWorld: Bringing up level for play took: 0.001702
+[2017.12.14-22.40.23:497][596]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 2.759
+[2017.12.14-22.40.31:903][114]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.40.36:411][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.40.36:411][114]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.40.37:547][114]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:40:37 AM)
+[2017.12.14-22.40.37:548][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.40.37:552][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004597s)
+[2017.12.14-22.40.37:553][114]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.40.37:553][114]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2017.12.14-22.40.37:553][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005710s)
+[2017.12.14-22.40.37:632][114]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.40.37:648][114]LogInit: FAudioDevice initialized.
+[2017.12.14-22.40.37:681][114]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.40.37:683][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.40.37
+[2017.12.14-22.40.37:683][114]LogWorld: Bringing up level for play took: 0.001812
+[2017.12.14-22.40.37:685][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.947
+[2017.12.14-22.41.41:365][456]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.41.41:392][456]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.41.41:426][456]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.41.42:803][456]LogPlayLevel: PlayLevel: Blueprint regeneration took 1411 ms (1 blueprints)
+[2017.12.14-22.41.42:803][456]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.41.42:838][456]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:41:42 AM)
+[2017.12.14-22.41.42:838][456]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.41.43:287][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.448391s)
+[2017.12.14-22.41.43:287][456]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.41.43:288][456]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2017.12.14-22.41.43:288][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.449595s)
+[2017.12.14-22.41.43:362][456]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.41.43:378][456]LogInit: FAudioDevice initialized.
+[2017.12.14-22.41.43:415][456]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.41.43:417][456]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.41.43
+[2017.12.14-22.41.43:417][456]LogWorld: Bringing up level for play took: 0.001753
+[2017.12.14-22.41.43:419][456]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 2.681
+[2017.12.14-22.42.01:356][792]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.42.01:564][792]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.42.01:595][792]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.42.03:063][792]LogPlayLevel: PlayLevel: Blueprint regeneration took 1499 ms (1 blueprints)
+[2017.12.14-22.42.03:063][792]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.42.03:095][792]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:42:03 AM)
+[2017.12.14-22.42.03:095][792]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.42.03:099][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004460s)
+[2017.12.14-22.42.03:100][792]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.42.03:100][792]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2017.12.14-22.42.03:100][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005540s)
+[2017.12.14-22.42.03:172][792]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.42.03:188][792]LogInit: FAudioDevice initialized.
+[2017.12.14-22.42.03:224][792]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.42.03:226][792]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.42.03
+[2017.12.14-22.42.03:227][792]LogWorld: Bringing up level for play took: 0.001738
+[2017.12.14-22.42.03:228][792]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 2.49
+[2017.12.14-22.42.31:587][886]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.42.31:630][886]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.42.31:662][886]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.42.33:283][886]LogPlayLevel: PlayLevel: Blueprint regeneration took 1652 ms (1 blueprints)
+[2017.12.14-22.42.33:283][886]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.42.33:833][886]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:42:33 AM)
+[2017.12.14-22.42.33:833][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.42.33:983][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149227s)
+[2017.12.14-22.42.33:983][886]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.42.33:983][886]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2017.12.14-22.42.33:984][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.150379s)
+[2017.12.14-22.42.34:051][886]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.42.34:067][886]LogInit: FAudioDevice initialized.
+[2017.12.14-22.42.34:102][886]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.42.34:104][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.42.34
+[2017.12.14-22.42.34:105][886]LogWorld: Bringing up level for play took: 0.001868
+[2017.12.14-22.42.34:106][886]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 3.368
+[2017.12.14-22.42.41:754][479]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.42.42:060][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.42.42:060][479]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.42.42:317][479]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:42:42 AM)
+[2017.12.14-22.42.42:317][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.42.42:807][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.489282s)
+[2017.12.14-22.42.42:808][479]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.42.42:808][479]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2017.12.14-22.42.42:808][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.490483s)
+[2017.12.14-22.42.42:883][479]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.42.42:901][479]LogInit: FAudioDevice initialized.
+[2017.12.14-22.42.43:279][479]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.42.43:282][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.42.43
+[2017.12.14-22.42.43:283][479]LogWorld: Bringing up level for play took: 0.002486
+[2017.12.14-22.42.43:285][479]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.547
+[2017.12.14-22.43.33:697][719]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.43.33:723][719]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.43.33:756][719]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.43.35:532][719]LogPlayLevel: PlayLevel: Blueprint regeneration took 1808 ms (1 blueprints)
+[2017.12.14-22.43.35:532][719]LogHMD: Initializing OVRPlugin session
+[2017.12.14-22.43.36:369][719]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:43:36 AM)
+[2017.12.14-22.43.36:369][719]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.43.36:561][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191732s)
+[2017.12.14-22.43.36:561][719]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.43.36:562][719]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2017.12.14-22.43.36:562][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.192919s)
+[2017.12.14-22.43.36:643][719]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.43.36:659][719]LogInit: FAudioDevice initialized.
+[2017.12.14-22.43.36:696][719]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.43.36:698][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.43.36
+[2017.12.14-22.43.36:699][719]LogWorld: Bringing up level for play took: 0.001752
+[2017.12.14-22.43.36:700][719]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 3.963
+[2017.12.14-22.44.02:439][644]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.44.43:372][644]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.44.43:435][644]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.44.45:401][644]LogPlayLevel: PlayLevel: Blueprint regeneration took 2028 ms (1 blueprints)
+[2017.12.14-22.44.45:401][644]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:44:45 AM)
+[2017.12.14-22.44.45:401][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.44.46:622][644]LogPlayLevel: PIE: StaticDuplicateObject took: (1.221032s)
+[2017.12.14-22.44.46:623][644]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.44.46:623][644]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2017.12.14-22.44.46:623][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (1.222185s)
+[2017.12.14-22.44.46:702][644]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.44.46:719][644]LogInit: FAudioDevice initialized.
+[2017.12.14-22.44.46:753][644]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.44.46:755][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.44.46
+[2017.12.14-22.44.46:755][644]LogWorld: Bringing up level for play took: 0.001722
+[2017.12.14-22.44.46:757][644]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 4.019
+[2017.12.14-22.45.02:888][874]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.45.02:936][874]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.45.06:854][149]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.45.06:971][154]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.45.10:367][419]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.45.33:673][419]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.45.33:706][419]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.45.35:723][419]LogPlayLevel: PlayLevel: Blueprint regeneration took 2050 ms (1 blueprints)
+[2017.12.14-22.45.35:723][419]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:45:35 AM)
+[2017.12.14-22.45.35:723][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.45.35:901][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178098s)
+[2017.12.14-22.45.35:902][419]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.45.35:902][419]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2017.12.14-22.45.35:903][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.179249s)
+[2017.12.14-22.45.35:985][419]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.45.36:001][419]LogInit: FAudioDevice initialized.
+[2017.12.14-22.45.36:034][419]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.45.36:037][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.45.36
+[2017.12.14-22.45.36:037][419]LogWorld: Bringing up level for play took: 0.002040
+[2017.12.14-22.45.36:039][419]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 3.301
+[2017.12.14-22.45.59:939][356]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.45.59:979][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.45.59:980][356]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:45:59 AM)
+[2017.12.14-22.45.59:980][356]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.46.00:516][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.535889s)
+[2017.12.14-22.46.00:516][356]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.46.00:517][356]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2017.12.14-22.46.00:517][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.537045s)
+[2017.12.14-22.46.00:595][356]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.46.00:612][356]LogInit: FAudioDevice initialized.
+[2017.12.14-22.46.00:645][356]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.46.00:647][356]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.46.00
+[2017.12.14-22.46.00:647][356]LogWorld: Bringing up level for play took: 0.001796
+[2017.12.14-22.46.00:649][356]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.089
+[2017.12.14-22.46.16:507][620]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.46.16:532][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.46.16:532][620]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:46:16 AM)
+[2017.12.14-22.46.16:532][620]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.46.17:506][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.974069s)
+[2017.12.14-22.46.17:507][620]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.46.17:508][620]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2017.12.14-22.46.17:508][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.975337s)
+[2017.12.14-22.46.17:581][620]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.46.17:597][620]LogInit: FAudioDevice initialized.
+[2017.12.14-22.46.17:634][620]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.46.17:636][620]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.46.17
+[2017.12.14-22.46.17:637][620]LogWorld: Bringing up level for play took: 0.001784
+[2017.12.14-22.46.17:638][620]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.9
+[2017.12.14-22.46.36:381][958]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.46.36:409][958]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.46.36:442][958]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.46.38:600][958]LogPlayLevel: PlayLevel: Blueprint regeneration took 2190 ms (1 blueprints)
+[2017.12.14-22.46.38:600][958]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:46:38 AM)
+[2017.12.14-22.46.38:600][958]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.46.39:663][958]LogPlayLevel: PIE: StaticDuplicateObject took: (1.062649s)
+[2017.12.14-22.46.39:664][958]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.46.39:664][958]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2017.12.14-22.46.39:664][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (1.063762s)
+[2017.12.14-22.46.39:742][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.46.39:759][958]LogInit: FAudioDevice initialized.
+[2017.12.14-22.46.39:795][958]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.46.39:797][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.46.39
+[2017.12.14-22.46.39:797][958]LogWorld: Bringing up level for play took: 0.001725
+[2017.12.14-22.46.39:798][958]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 3.061
+[2017.12.14-22.46.54:192][986]LogEditorViewport: Clicking on Actor (context menu): Platform_C (Platform)
+[2017.12.14-22.47.01:808][986]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.47.01:846][986]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.47.10:707][268]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.47.10:747][268]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.47.10:781][268]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.47.13:179][268]LogPlayLevel: PlayLevel: Blueprint regeneration took 2431 ms (1 blueprints)
+[2017.12.14-22.47.13:179][268]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:47:13 AM)
+[2017.12.14-22.47.13:179][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.47.13:793][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.613847s)
+[2017.12.14-22.47.13:794][268]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.47.13:794][268]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2017.12.14-22.47.13:794][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.614989s)
+[2017.12.14-22.47.13:869][268]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.47.13:885][268]LogInit: FAudioDevice initialized.
+[2017.12.14-22.47.13:919][268]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.47.13:921][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.47.13
+[2017.12.14-22.47.13:921][268]LogWorld: Bringing up level for play took: 0.001756
+[2017.12.14-22.47.13:923][268]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 3.185
+[2017.12.14-22.47.34:408][768]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.47.34:448][768]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.47.34:482][768]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.47.36:907][768]LogPlayLevel: PlayLevel: Blueprint regeneration took 2458 ms (1 blueprints)
+[2017.12.14-22.47.36:907][768]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:47:36 AM)
+[2017.12.14-22.47.36:907][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.47.37:433][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.525694s)
+[2017.12.14-22.47.37:434][768]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.47.37:434][768]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2017.12.14-22.47.37:434][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.526879s)
+[2017.12.14-22.47.37:512][768]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.47.37:529][768]LogInit: FAudioDevice initialized.
+[2017.12.14-22.47.37:568][768]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.47.37:570][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.47.37
+[2017.12.14-22.47.37:571][768]LogWorld: Bringing up level for play took: 0.001689
+[2017.12.14-22.47.37:572][768]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 2.834
+[2017.12.14-22.48.00:555][428]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.48.28:587][428]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.48.28:635][428]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.48.31:322][428]LogPlayLevel: PlayLevel: Blueprint regeneration took 2735 ms (1 blueprints)
+[2017.12.14-22.48.31:322][428]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:48:31 AM)
+[2017.12.14-22.48.31:322][428]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.48.31:862][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.539505s)
+[2017.12.14-22.48.31:863][428]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.48.31:863][428]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2017.12.14-22.48.31:863][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.540860s)
+[2017.12.14-22.48.31:940][428]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.48.31:958][428]LogInit: FAudioDevice initialized.
+[2017.12.14-22.48.31:993][428]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.48.31:995][428]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.48.31
+[2017.12.14-22.48.31:996][428]LogWorld: Bringing up level for play took: 0.002012
+[2017.12.14-22.48.31:997][428]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 3.26
+[2017.12.14-22.48.46:796][464]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.48.46:998][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.48.46:998][464]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:48:46 AM)
+[2017.12.14-22.48.46:998][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.48.47:005][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006294s)
+[2017.12.14-22.48.47:006][464]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.48.47:006][464]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2017.12.14-22.48.47:006][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.007842s)
+[2017.12.14-22.48.47:076][464]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.48.47:093][464]LogInit: FAudioDevice initialized.
+[2017.12.14-22.48.47:127][464]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.48.47:129][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.48.47
+[2017.12.14-22.48.47:129][464]LogWorld: Bringing up level for play took: 0.001701
+[2017.12.14-22.48.47:131][464]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.393
+[2017.12.14-22.49.18:023][584]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.49.18:049][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.49.18:084][584]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.49.20:962][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 2913 ms (1 blueprints)
+[2017.12.14-22.49.20:963][584]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:49:20 AM)
+[2017.12.14-22.49.20:963][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.49.20:967][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004522s)
+[2017.12.14-22.49.20:968][584]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.49.20:968][584]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2017.12.14-22.49.20:968][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005611s)
+[2017.12.14-22.49.21:043][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.49.21:059][584]LogInit: FAudioDevice initialized.
+[2017.12.14-22.49.21:094][584]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.49.21:098][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.49.21
+[2017.12.14-22.49.21:098][584]LogWorld: Bringing up level for play took: 0.002756
+[2017.12.14-22.49.21:100][584]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 2.363
+[2017.12.14-22.50.33:900][369]BlueprintLog: New page: Compile Platform
+[2017.12.14-22.50.38:285][465]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.50.39:159][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.50.39:159][465]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:50:39 AM)
+[2017.12.14-22.50.39:159][465]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.50.39:702][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.542020s)
+[2017.12.14-22.50.39:702][465]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.50.39:702][465]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2017.12.14-22.50.39:703][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.543167s)
+[2017.12.14-22.50.39:777][465]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.50.39:793][465]LogInit: FAudioDevice initialized.
+[2017.12.14-22.50.39:827][465]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.50.39:829][465]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.50.39
+[2017.12.14-22.50.39:830][465]LogWorld: Bringing up level for play took: 0.001678
+[2017.12.14-22.50.39:831][465]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.093
+[2017.12.14-22.51.15:922][137]BlueprintLog: New page: Compile Platform
+[2017.12.14-22.51.18:479][249]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.51.54:803][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.51.54:803][249]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:51:54 AM)
+[2017.12.14-22.51.54:804][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.51.54:870][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066609s)
+[2017.12.14-22.51.54:871][249]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.51.54:871][249]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2017.12.14-22.51.54:871][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.067809s)
+[2017.12.14-22.51.54:940][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.51.54:956][249]LogInit: FAudioDevice initialized.
+[2017.12.14-22.51.54:988][249]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.51.54:990][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.51.54
+[2017.12.14-22.51.54:991][249]LogWorld: Bringing up level for play took: 0.001686
+[2017.12.14-22.51.54:992][249]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.255
+[2017.12.14-22.52.24:706][587]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.52.24:732][587]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.52.24:766][587]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.52.25:441][587]LogPlayLevel: PlayLevel: Blueprint regeneration took 709 ms (1 blueprints)
+[2017.12.14-22.52.25:441][587]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:52:25 AM)
+[2017.12.14-22.52.25:441][587]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.52.25:768][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.326330s)
+[2017.12.14-22.52.25:768][587]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.52.25:769][587]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2017.12.14-22.52.25:769][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.327539s)
+[2017.12.14-22.52.25:831][587]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.52.25:849][587]LogInit: FAudioDevice initialized.
+[2017.12.14-22.52.25:884][587]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.52.25:886][587]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.52.25
+[2017.12.14-22.52.25:887][587]LogWorld: Bringing up level for play took: 0.001853
+[2017.12.14-22.52.25:888][587]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.15
+[2017.12.14-22.52.51:039][649]LogEditorViewport: Clicking on Actor (context menu): Platform_C (Platform)
+[2017.12.14-22.52.51:801][688]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.52.52:326][721]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.52.52:934][761]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.52.53:443][792]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.14-22.53.45:424][493]BlueprintLog: New page: Compile Platform
+[2017.12.14-22.53.47:671][578]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.53.47:727][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.53.47:727][578]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:53:47 AM)
+[2017.12.14-22.53.47:727][578]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.53.47:811][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084378s)
+[2017.12.14-22.53.47:812][578]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.53.47:812][578]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2017.12.14-22.53.47:812][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.085562s)
+[2017.12.14-22.53.47:883][578]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.53.47:899][578]LogInit: FAudioDevice initialized.
+[2017.12.14-22.53.47:936][578]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.53.47:939][578]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.53.47
+[2017.12.14-22.53.47:939][578]LogWorld: Bringing up level for play took: 0.001965
+[2017.12.14-22.53.47:941][578]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.203
+[2017.12.14-22.53.56:843][253]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.53.56:871][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.53.56:871][253]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:53:56 AM)
+[2017.12.14-22.53.56:871][253]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.53.56:960][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088306s)
+[2017.12.14-22.53.56:960][253]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.53.56:961][253]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2017.12.14-22.53.56:961][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.089455s)
+[2017.12.14-22.53.57:022][253]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.53.57:038][253]LogInit: FAudioDevice initialized.
+[2017.12.14-22.53.57:077][253]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.53.57:079][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.53.57
+[2017.12.14-22.53.57:079][253]LogWorld: Bringing up level for play took: 0.001766
+[2017.12.14-22.53.57:081][253]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.343
+[2017.12.14-22.54.25:875][375]BlueprintLog: New page: Compile Platform
+[2017.12.14-22.54.27:579][448]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.54.27:624][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.54.27:624][448]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:54:27 AM)
+[2017.12.14-22.54.27:624][448]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.54.28:082][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.458154s)
+[2017.12.14-22.54.28:083][448]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.54.28:084][448]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2017.12.14-22.54.28:084][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.459375s)
+[2017.12.14-22.54.28:153][448]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.54.28:170][448]LogInit: FAudioDevice initialized.
+[2017.12.14-22.54.28:208][448]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.54.28:210][448]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.54.28
+[2017.12.14-22.54.28:211][448]LogWorld: Bringing up level for play took: 0.001909
+[2017.12.14-22.54.28:212][448]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.474
+[2017.12.14-22.55.03:910][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.55.03:938][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.55.03:938][ 80]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:55:03 AM)
+[2017.12.14-22.55.03:939][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.55.03:944][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005406s)
+[2017.12.14-22.55.03:945][ 80]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.55.03:945][ 80]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2017.12.14-22.55.03:945][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.006601s)
+[2017.12.14-22.55.04:009][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.55.04:026][ 80]LogInit: FAudioDevice initialized.
+[2017.12.14-22.55.04:063][ 80]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.55.04:066][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.55.04
+[2017.12.14-22.55.04:066][ 80]LogWorld: Bringing up level for play took: 0.001723
+[2017.12.14-22.55.04:068][ 80]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.67
+[2017.12.14-22.55.29:208][940]BlueprintLog: New page: Compile Platform
+[2017.12.14-22.55.31:929][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.55.31:973][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.55.31:974][ 81]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:55:31 AM)
+[2017.12.14-22.55.31:974][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.55.31:978][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004504s)
+[2017.12.14-22.55.31:979][ 81]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.55.31:979][ 81]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2017.12.14-22.55.31:979][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005605s)
+[2017.12.14-22.55.32:052][ 81]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.55.32:068][ 81]LogInit: FAudioDevice initialized.
+[2017.12.14-22.55.32:104][ 81]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.55.32:106][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.55.32
+[2017.12.14-22.55.32:107][ 81]LogWorld: Bringing up level for play took: 0.001706
+[2017.12.14-22.55.32:108][ 81]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.63
+[2017.12.14-22.55.45:083][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.55.45:109][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.55.45:110][ 20]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:55:45 AM)
+[2017.12.14-22.55.45:110][ 20]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.55.45:115][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004904s)
+[2017.12.14-22.55.45:116][ 20]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.55.45:116][ 20]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2017.12.14-22.55.45:116][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.006231s)
+[2017.12.14-22.55.45:176][ 20]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.55.45:192][ 20]LogInit: FAudioDevice initialized.
+[2017.12.14-22.55.45:228][ 20]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.55.45:230][ 20]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.55.45
+[2017.12.14-22.55.45:230][ 20]LogWorld: Bringing up level for play took: 0.001669
+[2017.12.14-22.55.45:232][ 20]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.494
+[2017.12.14-22.56.16:995][311]BlueprintLog: New page: Compile Platform
+[2017.12.14-22.56.18:612][376]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.56.18:660][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.56.18:660][376]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:56:18 AM)
+[2017.12.14-22.56.18:660][376]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.56.18:665][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004536s)
+[2017.12.14-22.56.18:665][376]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.56.18:665][376]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2017.12.14-22.56.18:666][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005639s)
+[2017.12.14-22.56.18:740][376]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.56.18:757][376]LogInit: FAudioDevice initialized.
+[2017.12.14-22.56.18:792][376]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.56.18:795][376]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.56.18
+[2017.12.14-22.56.18:795][376]LogWorld: Bringing up level for play took: 0.002165
+[2017.12.14-22.56.18:797][376]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.059
+[2017.12.14-22.57.12:912][411]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.57.12:938][411]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.57.12:971][411]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.57.13:647][411]LogPlayLevel: PlayLevel: Blueprint regeneration took 709 ms (1 blueprints)
+[2017.12.14-22.57.13:647][411]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:57:13 AM)
+[2017.12.14-22.57.13:647][411]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.57.13:652][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004463s)
+[2017.12.14-22.57.13:653][411]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.57.13:653][411]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2017.12.14-22.57.13:653][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005617s)
+[2017.12.14-22.57.13:729][411]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.57.13:750][411]LogInit: FAudioDevice initialized.
+[2017.12.14-22.57.13:788][411]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.57.13:791][411]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.57.13
+[2017.12.14-22.57.13:791][411]LogWorld: Bringing up level for play took: 0.001434
+[2017.12.14-22.57.13:793][411]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.055
+[2017.12.14-22.57.44:227][584]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.57.44:281][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.57.44:316][584]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.57.45:075][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 795 ms (1 blueprints)
+[2017.12.14-22.57.45:076][584]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:57:45 AM)
+[2017.12.14-22.57.45:076][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.57.45:081][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004880s)
+[2017.12.14-22.57.45:081][584]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.57.45:082][584]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2017.12.14-22.57.45:082][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.006054s)
+[2017.12.14-22.57.45:161][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.57.45:177][584]LogInit: FAudioDevice initialized.
+[2017.12.14-22.57.45:211][584]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.57.45:213][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.57.45
+[2017.12.14-22.57.45:213][584]LogWorld: Bringing up level for play took: 0.001102
+[2017.12.14-22.57.45:215][584]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.477
+[2017.12.14-22.57.50:012][936]LogEditorViewport: Clicking on Actor (context menu): Platform_C (Platform)
+[2017.12.14-22.57.50:715][972]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.57.53:416][127]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint3)
+[2017.12.14-22.57.58:100][363]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.57.59:889][460]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint3)
+[2017.12.14-22.58.34:922][488]BlueprintLog: New page: Compile Platform
+[2017.12.14-22.58.37:440][582]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.58.37:482][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.58.37:482][582]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:58:37 AM)
+[2017.12.14-22.58.37:482][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.58.37:487][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004953s)
+[2017.12.14-22.58.37:488][582]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.58.37:488][582]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2017.12.14-22.58.37:488][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.006324s)
+[2017.12.14-22.58.37:559][582]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.58.37:578][582]LogInit: FAudioDevice initialized.
+[2017.12.14-22.58.37:612][582]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.58.37:614][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.58.37
+[2017.12.14-22.58.37:614][582]LogWorld: Bringing up level for play took: 0.001098
+[2017.12.14-22.58.37:616][582]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.878
+[2017.12.14-22.58.42:682][929]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.58.44:641][ 51]Cmd: DUPLICATE
+[2017.12.14-22.58.44:664][ 51]Cmd: ACTOR DUPLICATE
+[2017.12.14-22.58.49:523][305]Cmd: DUPLICATE
+[2017.12.14-22.58.49:523][305]Cmd: ACTOR DUPLICATE
+[2017.12.14-22.58.55:688][671]Cmd: DUPLICATE
+[2017.12.14-22.58.55:689][671]Cmd: ACTOR DUPLICATE
+[2017.12.14-22.58.58:109][814]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.58.58:136][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.58.58:136][814]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:58:58 AM)
+[2017.12.14-22.58.58:136][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.58.58:141][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004577s)
+[2017.12.14-22.58.58:141][814]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.58.58:142][814]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2017.12.14-22.58.58:142][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005702s)
+[2017.12.14-22.58.58:214][814]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.58.58:231][814]LogInit: FAudioDevice initialized.
+[2017.12.14-22.58.58:267][814]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.58.58:269][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.58.58
+[2017.12.14-22.58.58:269][814]LogWorld: Bringing up level for play took: 0.001403
+[2017.12.14-22.58.58:271][814]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.467
+[2017.12.14-22.59.04:022][210]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform4)
+[2017.12.14-22.59.04:990][261]Cmd: DELETE
+[2017.12.14-22.59.04:990][261]Cmd: ACTOR DELETE
+[2017.12.14-22.59.05:886][261]LogEditorActor: Deleted Actor: Platform_C
+[2017.12.14-22.59.05:975][261]LogEditorActor: Deleted 1 Actors (0.985 secs)
+[2017.12.14-22.59.05:976][261]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform3)
+[2017.12.14-22.59.06:550][294]Cmd: DELETE
+[2017.12.14-22.59.06:550][294]Cmd: ACTOR DELETE
+[2017.12.14-22.59.06:553][294]LogEditorActor: Deleted Actor: Platform_C
+[2017.12.14-22.59.06:611][294]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2017.12.14-22.59.07:069][328]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform2)
+[2017.12.14-22.59.15:756][851]LogEditorViewport: Clicking on Actor (CTRL LMB): Platform_C (Platform)
+[2017.12.14-22.59.21:894][219]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.59.21:990][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.59.21:990][219]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:59:21 AM)
+[2017.12.14-22.59.21:990][219]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.59.21:994][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004114s)
+[2017.12.14-22.59.21:995][219]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.59.21:995][219]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2017.12.14-22.59.21:995][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005188s)
+[2017.12.14-22.59.22:077][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.59.22:094][219]LogInit: FAudioDevice initialized.
+[2017.12.14-22.59.22:132][219]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.59.22:134][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.59.22
+[2017.12.14-22.59.22:134][219]LogWorld: Bringing up level for play took: 0.001206
+[2017.12.14-22.59.22:136][219]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.602
+[2017.12.14-22.59.26:426][523]LogEditorViewport: Clicking on Actor (context menu): Platform_C (Platform)
+[2017.12.14-22.59.27:082][557]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.59.27:517][584]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.59.28:004][614]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.14-22.59.30:098][735]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint3)
+[2017.12.14-22.59.32:106][849]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.59.32:132][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.14-22.59.32:132][849]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:59:32 AM)
+[2017.12.14-22.59.32:132][849]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.59.32:137][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004996s)
+[2017.12.14-22.59.32:138][849]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.59.32:138][849]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2017.12.14-22.59.32:138][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.006254s)
+[2017.12.14-22.59.32:218][849]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.59.32:236][849]LogInit: FAudioDevice initialized.
+[2017.12.14-22.59.32:269][849]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.59.32:271][849]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.59.32
+[2017.12.14-22.59.32:271][849]LogWorld: Bringing up level for play took: 0.001184
+[2017.12.14-22.59.32:272][849]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.465
+[2017.12.14-22.59.48:099][996]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.14-22.59.48:126][996]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.14-22.59.48:156][996]LogPlayLevel: [PlayLevel] Compiling Platform before play...
+[2017.12.14-22.59.48:923][996]LogPlayLevel: PlayLevel: Blueprint regeneration took 797 ms (1 blueprints)
+[2017.12.14-22.59.48:924][996]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 8:59:48 AM)
+[2017.12.14-22.59.48:924][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.14-22.59.48:928][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003974s)
+[2017.12.14-22.59.48:928][996]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.14-22.59.48:929][996]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2017.12.14-22.59.48:929][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.005084s)
+[2017.12.14-22.59.49:008][996]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-22.59.49:025][996]LogInit: FAudioDevice initialized.
+[2017.12.14-22.59.49:062][996]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.14-22.59.49:063][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-15.59.49
+[2017.12.14-22.59.49:063][996]LogWorld: Bringing up level for play took: 0.001145
+[2017.12.14-22.59.49:065][996]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.327
+[2017.12.14-23.00.11:967][286]Cmd: QUIT_EDITOR
+[2017.12.14-23.00.13:445][286]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.14-23.00.13:869][286]LogExit: Preparing to exit.
+[2017.12.14-23.00.16:817][286]LogDirectoryWatcher: A directory notification for 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/' was aborted.
+[2017.12.14-23.00.17:630][286]LogExit: Editor shut down
+[2017.12.14-23.00.17:646][286]LogExit: Transaction tracking system shut down
+[2017.12.14-23.00.19:321][286]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.14-23.00.19:321][286]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/' was aborted.
+[2017.12.14-23.00.19:321][286]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.14-23.00.19:322][286]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.14-23.00.19:322][286]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.14-23.00.19:322][286]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.14-23.00.19:322][286]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.14-23.00.24:819][286]LogExit: Object subsystem successfully closed.
+[2017.12.14-23.00.26:103][286]LogD3D11RHI: Shutdown
+[2017.12.14-23.00.26:122][286]LogD3D11RHI: CleanupD3DDevice
+[2017.12.14-23.00.26:219][286]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.14-23.00.33:414][286]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.12.14-23.00.33:414][286]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2017.12.14-23.00.33:414][286]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.14-23.00.33:414][286]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.14-23.00.33:414][286]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.14-23.00.33:463][286]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.14-23.00.33:467][286]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.14-23.00.33:467][286]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.14-23.00.33:467][286]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.14-23.00.33:499][286]LogDirectoryWatcher: A directory notification for 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Collections/' was aborted.
+[2017.12.14-23.00.33:499][286]LogDirectoryWatcher: A directory notification for 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Developers/Tyson/Collections/' was aborted.
+[2017.12.14-23.00.33:499][286]LogDirectoryWatcher: A directory notification for 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Collections/' was aborted.
+[2017.12.14-23.00.33:499][286]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.14-23.00.33:520][286]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.14-23.00.33:559][286]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.14-23.00.33:661][286]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.14-23.00.34:105][286]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.14-23.00.34:105][286]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.14-23.00.34:105][286]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.14-23.00.34:105][286]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.14-23.00.34:105][286]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.14-23.00.34:170][286]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.14-23.00.34:170][286]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.14-23.00.34:170][286]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.14-23.00.34:303][286]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.14-23.00.34:533][286]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.14-23.00.34:533][286]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.14-23.00.34:905][286]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.14-23.00.34:906][286]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.14-23.00.35:125][286]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.14-23.00.35:127][286]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.14-23.00.35:127][286]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.14-23.00.35:127][286]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.14-23.00.35:127][286]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.14-23.00.35:127][286]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.14-23.00.35:306][286]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.14-23.00.35:349][286]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.14-23.00.35:529][286]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.14-23.00.35:692][286]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.14-23.00.35:897][286]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.14-23.00.36:050][286]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.14-23.00.36:051][286]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.14-23.00.36:051][286]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.14-23.00.36:109][286]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.14-23.00.36:110][286]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.14-23.00.36:110][286]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.14-23.00.36:110][286]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.14-23.00.36:521][286]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.14-23.00.36:794][286]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.14-23.00.36:795][286]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.14-23.00.37:070][286]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.14-23.00.37:070][286]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.14-23.00.37:412][286]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.14-23.00.37:432][286]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.14-23.00.37:432][286]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.14-23.00.37:432][286]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.14-23.00.37:432][286]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.14-23.00.37:474][286]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.14-23.00.37:474][286]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.14-23.00.37:474][286]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.14-23.00.37:474][286]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.14-23.00.37:474][286]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.14-23.00.37:492][286]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.14-23.00.38:080][286]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.14-23.00.38:260][286]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.14-23.00.38:281][286]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.14-23.00.38:368][286]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.14-23.00.38:423][286]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.14-23.00.38:478][286]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.14-23.00.38:695][286]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.14-23.00.38:825][286]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.14-23.00.38:825][286]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.14-23.00.38:913][286]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.14-23.00.38:913][286]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.14-23.00.39:066][286]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.14-23.00.39:066][286]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.14-23.00.39:066][286]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.14-23.00.39:201][286]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.14-23.00.39:202][286]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.14-23.00.39:202][286]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.14-23.00.39:256][286]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.14-23.00.39:314][286]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.14-23.00.39:368][286]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.14-23.00.39:400][286]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.14-23.00.39:424][286]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.14-23.00.39:424][286]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.14-23.00.39:457][286]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.14-23.00.39:508][286]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.14-23.00.39:508][286]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.14-23.00.39:508][286]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.14-23.00.39:576][286]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.14-23.00.39:576][286]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.14-23.00.39:576][286]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.14-23.00.39:576][286]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.14-23.00.39:611][286]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.14-23.00.39:611][286]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.14-23.00.39:611][286]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.14-23.00.39:611][286]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.14-23.00.40:041][286]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.14-23.00.40:042][286]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.14-23.00.40:042][286]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.14-23.00.40:042][286]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.14-23.00.40:144][286]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.14-23.00.40:144][286]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.14-23.00.40:231][286]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.14-23.00.40:231][286]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.14-23.00.40:231][286]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.14-23.00.40:279][286]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.14-23.00.40:364][286]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.14-23.00.40:364][286]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.14-23.00.40:364][286]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.14-23.00.40:364][286]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.14-23.00.40:416][286]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.14-23.00.40:523][286]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.14-23.00.40:574][286]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.14-23.00.40:803][286]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.14-23.00.40:803][286]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.14-23.00.40:803][286]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.14-23.00.40:803][286]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.14-23.00.40:902][286]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.14-23.00.40:958][286]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.14-23.00.40:976][286]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.14-23.00.41:026][286]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.14-23.00.41:026][286]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.14-23.00.41:517][286]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.14-23.00.41:517][286]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.14-23.00.41:517][286]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.14-23.00.41:517][286]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.14-23.00.41:517][286]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.14-23.00.41:517][286]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.14-23.00.41:518][286]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.14-23.00.41:518][286]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.14-23.00.41:670][286]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.14-23.00.41:787][286]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.14-23.00.41:960][286]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.14-23.00.41:960][286]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.14-23.00.41:960][286]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.14-23.00.42:008][286]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.14-23.00.42:008][286]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.14-23.00.42:009][286]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.14-23.00.42:009][286]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.14-23.00.42:106][286]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.14-23.00.42:117][286]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.14-23.00.42:305][286]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.14-23.00.42:305][286]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.14-23.00.42:305][286]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.14-23.00.42:305][286]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.14-23.00.42:341][286]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.14-23.00.42:341][286]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.14-23.00.42:348][286]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.14-23.00.42:348][286]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.14-23.00.42:348][286]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.14-23.00.42:633][286]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.14-23.00.42:720][286]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.14-23.00.42:720][286]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.14-23.00.42:818][286]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.14-23.00.42:858][286]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.14-23.00.42:900][286]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.14-23.00.42:900][286]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.14-23.00.42:969][286]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.14-23.00.43:459][286]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.14-23.00.43:647][286]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.14-23.00.43:647][286]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.14-23.00.43:935][286]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.14-23.00.43:935][286]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.14-23.00.43:999][286]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.14-23.00.43:999][286]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.14-23.00.43:999][286]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.14-23.00.43:999][286]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.14-23.00.43:999][286]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.14-23.00.44:000][286]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.14-23.00.44:000][286]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.14-23.00.44:072][286]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.14-23.00.44:074][286]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.14-23.00.44:075][286]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.14-23.00.44:169][286]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.14-23.00.44:383][286]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.14-23.00.44:383][286]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.14-23.00.44:485][286]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.14-23.00.44:485][286]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.14-23.00.44:503][286]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.14-23.00.44:529][286]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.14-23.00.44:592][286]LogDerivedDataCache: Shutdown
+[2017.12.14-23.00.44:592][286]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.14-23.00.44:592][286]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.14-23.00.44:628][286]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.14-23.00.44:710][286]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.14-23.00.44:732][286]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.14-23.00.44:733][286]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.14-23.00.44:830][286]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.14-23.00.44:830][286]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.14-23.00.44:830][286]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.14-23.00.44:830][286]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.14-23.00.44:877][286]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.14-23.00.44:878][286]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.14-23.00.44:900][286]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.14-23.00.44:900][286]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.14-23.00.44:900][286]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.14-23.00.44:900][286]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.14-23.00.44:900][286]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.14-23.00.44:900][286]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.14-23.00.45:075][286]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.14-23.00.45:159][286]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.14-23.00.45:159][286]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.14-23.00.45:188][286]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC38BE2D5-4B26-3A20-B4C4-81BA3B866C13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=24b1d4644052d9f427c915b8fe606da1%7C65447e8320b245e9b110e75c04adaff1%7C7cf3b873-8a5f-4b3d-8274-23bd25636833&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.14-23.00.45:202][286]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.14-23.00.45:211][286]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.14-23.00.45:249][286]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.14-23.00.45:249][286]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.14-23.00.45:434][286]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.14-23.00.45:494][286]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.14-23.00.45:494][286]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.14-23.00.45:494][286]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.14-23.00.45:592][286]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.14-23.00.45:786][286]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.14-23.00.45:786][286]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.14-23.00.46:723][286]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.14-23.00.46:723][286]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.14-23.00.46:763][286]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.14-23.00.46:763][286]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.14-23.00.46:789][286]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.14-23.00.46:789][286]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.14-23.00.46:812][286]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.14-23.00.46:826][286]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.14-23.00.46:915][286]LogExit: Exiting.
+[2017.12.14-23.00.46:936][286]Log file closed, 12/14/17 16:00:46

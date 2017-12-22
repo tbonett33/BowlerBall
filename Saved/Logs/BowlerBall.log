@@ -1,18 +1,20 @@
-﻿Log file open, 12/14/17 14:18:12
+﻿Log file open, 12/22/17 02:28:02
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: BowlerBall
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1613935355) SRandInit(-1613935355).
+LogInit: Display: RandInit(272595742) SRandInit(272595742).
 LogInit: Read version file with build ID '3709383'
-LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.172818
+LogStats: Stats thread started at 0.210863
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -164,8 +166,9 @@ LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
 LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
 LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
 LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
-LogInit: Build: ++UE4+Release-4.18-CL-3709383
-LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
 LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
 LogInit: Net CL: 3709383
 LogDevObjectVersion: Number of dev versions registered: 16
@@ -185,7 +188,7 @@ LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
 LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
 LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
 LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
-LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
@@ -194,325 +197,228 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.14-21.18.14:997][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.14-21.18.14:997][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.14-21.18.15:068][  0]LogInit: Computer: L-704-804-13-S
-[2017.12.14-21.18.15:068][  0]LogInit: User: 18ttoller
-[2017.12.14-21.18.15:068][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.12.14-21.18.15:068][  0]LogInit: High frequency timer resolution =3.117789 MHz
-[2017.12.14-21.18.15:069][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.12.14-21.18.15:069][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.14-21.18.15:069][  0]LogMemory: Process Physical Memory: 272.96 MB used, 272.96 MB peak
-[2017.12.14-21.18.15:069][  0]LogMemory: Process Virtual Memory: 271.57 MB used, 271.57 MB peak
-[2017.12.14-21.18.15:069][  0]LogMemory: Physical Memory: 2541.03 MB used,  5559.24 MB free, 8100.27 MB total
-[2017.12.14-21.18.15:069][  0]LogMemory: Virtual Memory: 645.18 MB used,  5559.24 MB free, 134217728.00 MB total
-[2017.12.14-21.18.15:381][  0]LogInit: Using OS detected language (en-US).
-[2017.12.14-21.18.15:381][  0]LogInit: Using OS detected locale (en-US).
-[2017.12.14-21.18.15:636][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2017.12.14-21.18.16:633][  0]LogInit: Setting process to per monitor DPI aware
-[2017.12.14-21.18.19:829][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.14-21.18.19:835][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2017.12.14-21.18.19:835][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2017.12.14-21.18.19:837][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.14-21.18.19:837][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.14-21.18.19:837][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.14-21.18.19:841][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.14-21.18.19:841][  0]LogD3D11RHI:     GPU DeviceId: 0x412 (for the marketing name, search the web for "GPU Device Id")
-[2017.12.14-21.18.19:841][  0]LogWindows: EnumDisplayDevices:
-[2017.12.14-21.18.19:841][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
-[2017.12.14-21.18.19:842][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2017.12.14-21.18.19:842][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2017.12.14-21.18.19:842][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2017.12.14-21.18.19:842][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
-[2017.12.14-21.18.19:842][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
-[2017.12.14-21.18.19:842][  0]LogD3D11RHI:      Driver Date: 9-29-2016
-[2017.12.14-21.18.19:842][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
-[2017.12.14-21.18.19:846][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.14-21.18.19:850][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
-[2017.12.14-21.18.19:850][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Intermediate/Shaders/WorkingDirectory/4660/).
-[2017.12.14-21.18.19:850][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/18ttoller/AppData/Local/Temp/UnrealShaderWorkingDir/9D59BE89413348A7C82F12AFA52F6E31/'.
-[2017.12.14-21.18.19:850][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.14-21.18.25:696][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.12.14-21.18.25:748][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.12.14-21.18.25:800][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.12.14-21.18.25:852][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.12.14-21.18.25:944][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.12.14-21.18.25:997][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.14-21.18.26:050][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.14-21.18.26:102][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.14-21.18.26:149][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.14-21.18.26:199][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.12.14-21.18.26:249][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.12.14-21.18.26:300][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.12.14-21.18.26:350][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.12.14-21.18.26:401][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.12.14-21.18.26:503][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.12.14-21.18.26:503][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.12.14-21.18.26:570][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.12.14-21.18.26:611][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.12.14-21.18.26:726][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.12.14-21.18.26:752][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.12.14-21.18.26:812][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.12.14-21.18.26:863][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.12.14-21.18.26:916][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.12.14-21.18.26:971][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.12.14-21.18.26:971][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.14-21.18.27:918][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.14-21.18.28:860][  0]LogDerivedDataCache: Loaded boot cache 0.94s 78MB C:/Users/18ttoller/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.14-21.18.28:861][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/18ttoller/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.14-21.18.28:861][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.14-21.18.28:861][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.14-21.18.28:861][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.14-21.18.28:861][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.14-21.18.28:894][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.14-21.18.28:907][  0]LogDerivedDataCache: Using Local data cache path C:/Users/18ttoller/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.14-21.18.28:918][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.14-21.18.28:918][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.14-21.18.29:004][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.14-21.18.29:004][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.14-21.18.34:442][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.14-21.18.34:927][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.14-21.18.34:981][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.14-21.18.34:981][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.14-21.18.34:981][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.14-21.18.34:981][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.14-21.18.34:981][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.14-21.18.35:009][  0]LogNetVersion: BowlerBall , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1227897878)
-[2017.12.14-21.18.35:181][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
-[2017.12.14-21.18.35:758][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.103100 seconds
-[2017.12.14-21.18.35:765][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.12.14-21.18.35:765][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
-[2017.12.14-21.18.35:765][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.12.14-21.18.35:831][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.12.14-21.18.51:000][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.12.14-21.18.51:045][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.12.14-21.18.52:240][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.12.14-21.18.52:748][  0]SourceControl: Source control is disabled
-[2017.12.14-21.18.55:586][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2017.12.14-21.18.55:944][  0]LogOcInput: OculusInput pre-init called
-[2017.12.14-21.18.56:308][  0]LogEngine: Initializing Engine...
-[2017.12.14-21.18.56:310][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.12.14-21.18.56:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.12.14-21.18.56:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.12.14-21.18.56:685][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.12.14-21.18.56:692][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.14-21.18.56:758][  0]LogInit: FAudioDevice initialized.
-[2017.12.14-21.18.56:930][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/18ttoller/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.14-21.18.56:950][  0]LogInit: Texture streaming: Enabled
-[2017.12.14-21.18.57:101][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2017.12.14-21.18.57:234][  0]LogInit: Transaction tracking system initialized
-[2017.12.14-21.18.57:595][  0]BlueprintLog: New page: Editor Load
-[2017.12.14-21.18.58:839][  0]LocalizationService: Localization service is disabled
-[2017.12.14-21.18.59:923][  0]LogConsoleResponse: Display: 
-[2017.12.14-21.19.00:859][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.12.14-21.19.00:859][  0]LogCook: Display: Mobile HDR setting 1
-[2017.12.14-21.19.00:860][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2017.12.14-21.19.01:074][  0]LogFileCache: Scanning file cache for directory 'C:/Users/18ttoller/Documents/GitHub/BowlerBall/Content/' took 0.02s
-[2017.12.14-21.19.03:200][  0]Cmd: MAP LOAD FILE="../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Content/Maps/TestPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.12.14-21.19.03:201][  0]LightingResults: New page: Lighting Build
-[2017.12.14-21.19.03:242][  0]MapCheck: New page: Map Check
-[2017.12.14-21.19.03:242][  0]LightingResults: New page: Lighting Build
-[2017.12.14-21.19.04:032][  0]LogAIModule: Creating AISystem for world TestPlatform
-[2017.12.14-21.19.04:041][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.12.14-21.19.04:062][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.12.14-21.19.04:116][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.675ms to complete.
-[2017.12.14-21.19.04:116][  0]LogFileHelpers: Loading map 'TestPlatform' took 0.915
-[2017.12.14-21.19.04:467][  0]LogCollectionManager: Loaded 0 collections in 0.002050 seconds
-[2017.12.14-21.19.04:546][  0]LogFileCache: Scanning file cache for directory 'C:/Users/18ttoller/Documents/GitHub/BowlerBall/Saved/Collections/' took 0.01s
-[2017.12.14-21.19.04:546][  0]LogFileCache: Scanning file cache for directory 'C:/Users/18ttoller/Documents/GitHub/BowlerBall/Content/Developers/18ttoller/Collections/' took 0.01s
-[2017.12.14-21.19.04:546][  0]LogFileCache: Scanning file cache for directory 'C:/Users/18ttoller/Documents/GitHub/BowlerBall/Content/Collections/' took 0.01s
-[2017.12.14-21.19.04:546][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2017.12.14-21.19.04:555][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2363 classes and 519 folders.
-[2017.12.14-21.19.04:624][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2017.12.14-21.19.06:891][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2017.12.14-21.19.06:992][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2017.12.14-21.19.07:026][  0]LogSlate: Took 0.019019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.14-21.19.07:048][  0]LogSlate: Took 0.018883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2017.12.14-21.19.07:069][  0]LogSlate: Took 0.016461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2017.12.14-21.19.07:316][  0]LogRenderer: Reallocating scene render targets to support 1328x496 Format 10 NumSamples 1 (Frame:1).
-[2017.12.14-21.19.07:864][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2017.12.14-21.19.07:864][  0]LogLoad: (Engine Initialization) Total time: 73.40 seconds
-[2017.12.14-21.19.07:864][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2017.12.14-21.19.07:864][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2017.12.14-21.19.07:875][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.14-21.19.07:895][  0]SourceControl: On branch master
-[2017.12.14-21.19.07:895][  0]SourceControl: Your branch is up to date with 'origin/master'.
-[2017.12.14-21.19.07:895][  0]SourceControl: Changes to be committed:
-[2017.12.14-21.19.07:895][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
-[2017.12.14-21.19.07:895][  0]SourceControl: 	new file:   Content/Assets/Bumper.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	new file:   Content/Assets/Transparent.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	new file:   Content/Assets/ballmesh.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	new file:   Content/Blueprints/NewBlueprint.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	new file:   Content/Blueprints/NewMaterial.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	new file:   Content/Blueprints/Roof.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Content/Blueprints/Test.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	new file:   Content/Blueprints/red.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: Changes not staged for commit:
-[2017.12.14-21.19.07:895][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
-[2017.12.14-21.19.07:895][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Config/DefaultEngine.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Config/DefaultInput.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Content/Assets/Material.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Content/Assets/Transparent.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Content/Blueprints/NewBlueprint.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Content/Blueprints/Platform.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Content/Maps/TestPlatform.umap
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Content/Maps/TestPlatform_BuiltData.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Intermediate/ReimportCache/3688439234.bin
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-19C90B61479BB6DD1AC328BC5BC3B664/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-3F10788F4FC44683B0EA6185BBABCD30/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-6281ABD44FBA1449A79356B7F6DBC80D/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-6382A97D4F6A490B05A9AEBEF86FD9F2/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-68D17F574C328D1476929C91B31107D1/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-73AC25C445639A5C3A20FEACD1FC3D70/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-76577D084608BFEBD5BC2297D834FF32/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-8165A827465E01D89C9DC89E39AC20E4/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-9C82EC25409813372669D2A7481948AA/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-D49858D44CAD3A94BB4EEE91BD1A173B/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-EC6363434D376EAE73B909B56D909A45/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F7FEA05A442D8C8741DA34BFDA9A2907/CrashReportClient.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall-backup-2017.12.01-21.58.38.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall-backup-2017.12.03-14.53.18.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall-backup-2017.12.03-18.32.18.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall-backup-2017.12.03-22.27.49.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall_2-backup-2017.12.03-22.28.09.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	modified:   Saved/Logs/BowlerBall_2.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBowl-backup-2017.11.30-12.33.41.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBowl-backup-2017.12.01-12.32.57.log
-[2017.12.14-21.19.07:895][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBowl-backup-2017.12.01-12.39.25.log
-[2017.12.14-21.19.07:895][  0]SourceControl: Untracked files:
-[2017.12.14-21.19.07:895][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2017.12.14-21.19.07:895][  0]SourceControl: 	Content/Assets/Bumper.fbx
-[2017.12.14-21.19.07:895][  0]SourceControl: 	Saved/Autosaves/Game/Assets/
-[2017.12.14-21.19.07:895][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/PlatformController_Auto2.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/PlatformController_Auto3.uasset
-[2017.12.14-21.19.07:895][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/PlatformController_Auto4.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Platform_Auto1.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Platform_Auto2.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Platform_Auto5.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Roof_Auto2.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Autosaves/Game/Maps/
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Material_2017-12-08-13-29-34.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Material_2017-12-08-14-20-22.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Material_2017-12-12-12-54-38.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/NewBlueprint_2017-12-06-14-14-02.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/PlatformController_2017-12-04-12-49-56.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/PlatformController_2017-12-04-13-00-53.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/PlatformController_2017-12-04-13-22-07.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-04-12-39-35.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-04-12-49-56.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-04-14-10-18.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-08-13-29-33.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-08-14-20-22.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-12-12-50-24.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-12-13-04-52.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-12-14-47-18.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-14-12-40-56.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Platform_2017-12-14-13-10-47.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Roof_2017-12-08-13-48-26.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Roof_2017-12-08-14-20-22.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-04-12-39-35.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-04-12-49-56.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-04-14-10-18.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-06-14-14-44.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-06-14-24-32.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-08-13-16-49.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-08-13-29-33.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-08-13-38-26.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-08-14-19-51.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-12-12-50-24.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-12-13-04-52.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-12-14-47-13.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-14-12-40-52.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-14-13-10-47.umap
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-06-14-24-32.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-08-13-16-49.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-08-13-29-34.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-08-13-38-26.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-08-14-19-51.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-12-13-04-52.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-12-14-47-13.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/Transparent_2017-12-08-14-20-22.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/red_2017-12-08-14-20-22.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Backup/red_2017-12-12-12-53-37.uasset
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-2529A4C44C4C3E3BA8D7979466F2ED45/
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-3E79BB91474B41A589179BA7A047862D/
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-94FC67534FB79ABDFECAEA848A937023/
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-A07292CB4CB41EFD280DFBB24B78726D/
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/HardwareSurvey/
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Logs/BowlerBall-backup-2017.12.12-12.32.40.log
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Logs/BowlerBall-backup-2017.12.14-12.36.03.log
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Logs/BowlerBall-backup-2017.12.14-14.18.11.log
-[2017.12.14-21.19.07:896][  0]SourceControl: 	Saved/Logs/BowlerBall_2-backup-2017.12.14-12.36.05.log
-[2017.12.14-21.19.07:897][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.12.14-21.19.07:968][  0]LogSlate: Took 0.005385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.14-21.19.08:048][  1]LogAssetRegistry: Asset discovery search completed in 32.8879 seconds
-[2017.12.14-21.19.08:050][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.12.14-21.19.08:050][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
-[2017.12.14-21.19.09:252][  6]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.14-21.19.12:431][107]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.14-21.19.12:553][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.14-21.19.12:554][107]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 7:19:12 AM)
-[2017.12.14-21.19.12:554][107]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
-[2017.12.14-21.19.12:559][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005242s)
-[2017.12.14-21.19.12:560][107]LogAIModule: Creating AISystem for world TestPlatform
-[2017.12.14-21.19.12:560][107]LogPlayLevel: PIE: World Init took: (0.000727s)
-[2017.12.14-21.19.12:560][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.006231s)
-[2017.12.14-21.19.12:572][107]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.14-21.19.12:589][107]LogInit: FAudioDevice initialized.
-[2017.12.14-21.19.12:676][107]LogLoad: Game class is 'BowlerBallGameMode_C'
-[2017.12.14-21.19.12:679][107]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-14.19.12
-[2017.12.14-21.19.12:679][107]LogWorld: Bringing up level for play took: 0.001414
-[2017.12.14-21.19.12:726][107]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
-[2017.12.14-21.19.12:728][107]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.394
-[2017.12.14-21.19.45:545][816]LogSlate: Took 0.027654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.14-21.19.45:916][816]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.14-21.19.45:984][816]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
-[2017.12.14-21.19.47:145][816]LogSlate: Took 0.021030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2017.12.14-21.19.47:385][817]LogSlate: Took 0.020978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2017.12.14-21.21.35:897][700]BlueprintLog: New page: Compile Platform
-[2017.12.14-21.21.40:317][773]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.14-21.21.40:354][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.14-21.21.40:354][773]PIE: New page: PIE session: TestPlatform (Dec 14, 2017, 7:21:40 AM)
-[2017.12.14-21.21.40:354][773]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
-[2017.12.14-21.21.40:377][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023067s)
-[2017.12.14-21.21.40:378][773]LogAIModule: Creating AISystem for world TestPlatform
-[2017.12.14-21.21.40:378][773]LogPlayLevel: PIE: World Init took: (0.000881s)
-[2017.12.14-21.21.40:379][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.024290s)
-[2017.12.14-21.21.40:403][773]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.14-21.21.40:424][773]LogInit: FAudioDevice initialized.
-[2017.12.14-21.21.40:465][773]LogLoad: Game class is 'BowlerBallGameMode_C'
-[2017.12.14-21.21.40:467][773]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.14-14.21.40
-[2017.12.14-21.21.40:467][773]LogWorld: Bringing up level for play took: 0.001443
-[2017.12.14-21.21.40:468][773]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.131
-[2017.12.14-21.22.47:669][573]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2017.12.14-21.22.51:172][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
-[2017.12.14-21.22.53:336][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
-[2017.12.14-21.22.53:454][620]LogSavePackage: Save=105.92ms
-[2017.12.14-21.22.53:455][620]LogSavePackage: Moving '../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Saved/Platform9915F6224D9407E5C580D8A8F1C7DF57.tmp' to '../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
-[2017.12.14-21.22.53:458][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
-[2017.12.14-21.22.53:523][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestPlatform" FILE="../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Content/Maps/TestPlatform.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.12.14-21.22.53:597][620]LogSavePackage: Save=50.58ms
-[2017.12.14-21.22.53:597][620]LogSavePackage: Moving '../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Saved/TestPlatformF413A27247A3167346549F8BC39D83F0.tmp' to '../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Content/Maps/TestPlatform.umap'
-[2017.12.14-21.22.53:600][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/18ttoller/Documents/GitHub/BowlerBall/Content/Maps/TestPlatform.umap
-[2017.12.14-21.22.53:630][620]LogFileHelpers: Saving map 'TestPlatform' took 0.169
-[2017.12.14-21.23.01:352][620]LogSourceControl: FGitCheckInWorker: commit successful
-[2017.12.14-21.23.01:417][620]SourceControl: [master d95c69b] updated lots
-[2017.12.14-21.23.01:417][620]SourceControl:  6 files changed, 0 insertions(+), 0 deletions(-)
-[2017.12.14-21.23.01:417][620]SourceControl:  create mode 100644 Content/Blueprints/NewBlueprint.uasset
-[2017.12.14-21.23.01:417][620]SourceControl:  create mode 100644 Content/Blueprints/NewMaterial.uasset
-[2017.12.14-21.23.01:417][620]SourceControl:  rewrite Content/Blueprints/Platform.uasset (85%)
-[2017.12.14-21.23.01:417][620]SourceControl:  create mode 100644 Content/Blueprints/Roof.uasset
-[2017.12.14-21.23.01:417][620]SourceControl:  create mode 100644 Content/Blueprints/red.uasset
-[2017.12.14-21.23.01:417][620]SourceControl:  rewrite Content/Maps/TestPlatform.umap (98%)
-[2017.12.14-21.23.01:422][620]SourceControl: Commited [master d95c69b] updated lots.
+[2017.12.22-09.28.05:378][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.22-09.28.05:378][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.22-09.28.05:413][  0]LogInit: Computer: DESKTOP-OEP2RU7
+[2017.12.22-09.28.05:413][  0]LogInit: User: Tyson
+[2017.12.22-09.28.05:413][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.22-09.28.05:413][  0]LogInit: High frequency timer resolution =3.429535 MHz
+[2017.12.22-09.28.05:413][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.22-09.28.05:413][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.22-09.28.05:413][  0]LogMemory: Process Physical Memory: 278.14 MB used, 278.14 MB peak
+[2017.12.22-09.28.05:413][  0]LogMemory: Process Virtual Memory: 276.13 MB used, 276.13 MB peak
+[2017.12.22-09.28.05:413][  0]LogMemory: Physical Memory: 6274.43 MB used,  10007.91 MB free, 16282.34 MB total
+[2017.12.22-09.28.05:413][  0]LogMemory: Virtual Memory: 733.74 MB used,  10007.91 MB free, 134217728.00 MB total
+[2017.12.22-09.28.05:693][  0]LogInit: Using OS detected language (en-US).
+[2017.12.22-09.28.05:693][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.22-09.28.05:697][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.22-09.28.06:232][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.22-09.28.06:605][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.22-09.28.06:675][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.22-09.28.06:675][  0]LogD3D11RHI:       8096/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.22-09.28.06:678][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.22-09.28.06:678][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.22-09.28.06:678][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.22-09.28.06:687][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.22-09.28.06:687][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.22-09.28.06:687][  0]LogWindows: EnumDisplayDevices:
+[2017.12.22-09.28.06:687][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.22-09.28.06:687][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.22-09.28.06:687][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.22-09.28.06:688][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.22-09.28.06:688][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.22-09.28.06:688][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.22-09.28.06:688][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.22-09.28.06:688][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.22-09.28.06:688][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.22-09.28.06:732][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.22-09.28.06:745][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.22-09.28.06:843][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Intermediate/Shaders/WorkingDirectory/12824/).
+[2017.12.22-09.28.06:843][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyson/AppData/Local/Temp/UnrealShaderWorkingDir/F8BB0D8D48F72B8B4DCF9E9FB21581D8/'.
+[2017.12.22-09.28.06:843][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.22-09.28.08:375][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.22-09.28.08:468][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.22-09.28.08:563][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.22-09.28.08:659][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.22-09.28.08:754][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.22-09.28.08:850][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.22-09.28.08:945][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.22-09.28.09:040][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.22-09.28.09:124][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.22-09.28.09:217][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.22-09.28.09:311][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.22-09.28.09:405][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.22-09.28.09:501][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.22-09.28.09:595][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.22-09.28.09:782][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.22-09.28.09:783][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.22-09.28.09:879][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.22-09.28.09:955][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.22-09.28.10:106][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.22-09.28.10:155][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.22-09.28.10:248][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.22-09.28.10:341][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.22-09.28.10:434][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.22-09.28.10:525][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.22-09.28.10:525][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.22-09.28.11:428][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.22-09.28.11:559][  0]LogDerivedDataCache: Loaded boot cache 0.13s 78MB C:/Users/Tyson/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.22-09.28.11:559][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyson/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.22-09.28.11:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.22-09.28.11:559][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.22-09.28.11:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.22-09.28.11:559][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.22-09.28.11:582][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.22-09.28.11:595][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.22-09.28.11:613][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.22-09.28.11:614][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.22-09.28.11:614][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-09.28.11:614][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-09.28.12:193][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.22-09.28.12:782][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.22-09.28.12:862][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.22-09.28.12:862][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.22-09.28.12:862][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.22-09.28.12:862][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.22-09.28.12:862][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.22-09.28.12:912][  0]LogNetVersion: BowlerBall , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1227897878)
+[2017.12.22-09.28.13:156][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2017.12.22-09.28.13:951][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.111906 seconds
+[2017.12.22-09.28.13:958][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.22-09.28.13:958][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.22-09.28.13:958][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.22-09.28.14:063][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.22-09.28.18:641][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.22-09.28.18:717][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.22-09.28.19:945][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.22-09.28.20:708][  0]SourceControl: Source control is disabled
+[2017.12.22-09.28.23:893][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.22-09.28.24:408][  0]LogOcInput: OculusInput pre-init called
+[2017.12.22-09.28.24:940][  0]LogEngine: Initializing Engine...
+[2017.12.22-09.28.30:693][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.12.22-09.28.30:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.22-09.28.30:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.22-09.28.31:239][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.22-09.28.31:256][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.28.31:281][  0]LogInit: FAudioDevice initialized.
+[2017.12.22-09.28.31:419][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Tyson/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.22-09.28.31:444][  0]LogInit: Texture streaming: Enabled
+[2017.12.22-09.28.31:642][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.22-09.28.31:891][  0]LogInit: Transaction tracking system initialized
+[2017.12.22-09.28.32:490][  0]BlueprintLog: New page: Editor Load
+[2017.12.22-09.28.34:217][  0]LocalizationService: Localization service is disabled
+[2017.12.22-09.28.35:627][  0]LogConsoleResponse: Display: 
+[2017.12.22-09.28.35:894][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.22-09.28.35:895][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.22-09.28.35:895][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.22-09.28.36:279][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/' took 0.01s
+[2017.12.22-09.28.38:180][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.22-09.28.38:181][  0]LightingResults: New page: Lighting Build
+[2017.12.22-09.28.38:260][  0]MapCheck: New page: Map Check
+[2017.12.22-09.28.38:260][  0]LightingResults: New page: Lighting Build
+[2017.12.22-09.28.38:759][  0]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.28.38:766][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.22-09.28.38:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.22-09.28.38:901][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.245ms to complete.
+[2017.12.22-09.28.38:901][  0]LogFileHelpers: Loading map 'TestPlatform' took 0.721
+[2017.12.22-09.28.39:125][  0]LogCollectionManager: Loaded 0 collections in 0.002949 seconds
+[2017.12.22-09.28.39:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Collections/' took 0.01s
+[2017.12.22-09.28.39:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Developers/Tyson/Collections/' took 0.01s
+[2017.12.22-09.28.39:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Collections/' took 0.01s
+[2017.12.22-09.28.39:261][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.22-09.28.39:280][  0]LogContentBrowser: Native class hierarchy populated in 0.0182 seconds. Added 2363 classes and 519 folders.
+[2017.12.22-09.28.39:416][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.22-09.28.39:491][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.22-09.28.39:570][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.22-09.28.39:659][  0]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.22-09.28.39:663][  0]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.22-09.28.39:670][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.22-09.28.39:814][  0]LogRenderer: Reallocating scene render targets to support 900x460 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-09.28.40:043][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.22-09.28.40:043][  0]LogLoad: (Engine Initialization) Total time: 39.62 seconds
+[2017.12.22-09.28.40:043][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.22-09.28.40:043][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.22-09.28.40:416][  0]SourceControl: On branch master
+[2017.12.22-09.28.40:416][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-09.28.40:416][  0]SourceControl: Changes to be committed:
+[2017.12.22-09.28.40:416][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-09.28.40:416][  0]SourceControl: 	new file:   Content/Blueprints/BowlingHud.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	deleted:    Content/Blueprints/Bumpers.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	deleted:    Content/Blueprints/NewBlueprint.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	deleted:    Content/Blueprints/NewMaterial.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	deleted:    Content/Blueprints/PlatformController.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	deleted:    Content/Blueprints/Roof.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	new file:   Content/Blueprints/Score.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	new file:   Content/Blueprints/Timer.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	deleted:    Content/Blueprints/red.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	new file:   Content/HUD/BowlerHud.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	new file:   Content/HUD/BowlingHud.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: 	new file:   Content/HUD/Timer.uasset
+[2017.12.22-09.28.40:416][  0]SourceControl: Changes not staged for commit:
+[2017.12.22-09.28.40:416][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.22-09.28.40:417][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Config/DefaultInput.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Content/Blueprints/BowlerBallGameMode.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Content/Blueprints/BowlingHud.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Content/Blueprints/Platform.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Content/Maps/TestPlatform.umap
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Content/Maps/TestPlatform_BuiltData.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto1.umap
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-2529A4C44C4C3E3BA8D7979466F2ED45/CrashReportClient.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-3E79BB91474B41A589179BA7A047862D/CrashReportClient.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-94FC67534FB79ABDFECAEA848A937023/CrashReportClient.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-A07292CB4CB41EFD280DFBB24B78726D/CrashReportClient.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall-backup-2017.12.12-12.32.40.log
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall-backup-2017.12.14-12.36.03.log
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall-backup-2017.12.14-14.18.11.log
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-09.28.40:417][  0]SourceControl: 	deleted:    Saved/Logs/BowlerBall_2-backup-2017.12.14-12.36.05.log
+[2017.12.22-09.28.40:417][  0]SourceControl: 	modified:   Saved/Logs/BowlerBall_2.log
+[2017.12.22-09.28.40:417][  0]SourceControl: Untracked files:
+[2017.12.22-09.28.40:417][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/BowlerBallGameMode_Auto1.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/BowlerBallGameMode_Auto2.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Timer_Auto3.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Autosaves/Game/Maps/TestPlatform_Auto3.umap
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-01-28-04.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-01-38-13.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-01-52-46.uasset
+[2017.12.22-09.28.40:417][  0]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-02-03-08.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/BowlingHud_2017-12-22-02-05-52.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/Platform_2017-12-22-01-19-37.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/Platform_2017-12-22-01-26-19.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/Platform_2017-12-22-01-41-39.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/Score_2017-12-22-02-02-39.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-01-28-04.umap
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-01-40-44.umap
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-01-53-20.umap
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-06-07.umap
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-18-30.umap
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-01-40-45.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-06-07.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-18-31.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/Timer_2017-12-22-01-44-33.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/Timer_2017-12-22-01-49-33.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Backup/Timer_2017-12-22-01-54-42.uasset
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-0D3247F8470F1C09EAF1DEBBEC890CFA/
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-2906544E490F86FE2AF0B59B8944750B/
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-2BEEDB3A4126C4B17F202DA08D995557/
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-E1975E3E40CC9670EB4DDD8FD123BBA1_0000/
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Logs/BowlerBall-backup-2017.12.22-01.14.33.log
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Logs/BowlerBall-backup-2017.12.22-02.06.32.log
+[2017.12.22-09.28.40:418][  0]SourceControl: 	Saved/Logs/BowlerBall-backup-2017.12.22-02.28.01.log
+[2017.12.22-09.28.40:418][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.22-09.28.40:716][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/' took 0.32s
+[2017.12.22-09.28.40:727][  1]LogAssetRegistry: Asset discovery search completed in 27.5941 seconds
+[2017.12.22-09.28.40:730][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.22-09.28.40:730][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2017.12.22-09.28.44:511][291]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
