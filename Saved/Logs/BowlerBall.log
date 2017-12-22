@@ -422,3 +422,1560 @@ LogInit: Object subsystem initialized
 [2017.12.22-09.28.40:730][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2017.12.22-09.28.40:730][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
 [2017.12.22-09.28.44:511][291]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-09.29.20:545][291]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-09.29.21:536][291]SourceControl: rm 'Content/Blueprints/BowlingHud.uasset'
+[2017.12.22-09.29.27:020][708]SourceControl: rm 'Content/Blueprints/Score.uasset'
+[2017.12.22-09.29.32:441][106]SourceControl: rm 'Content/HUD/BowlingHud.uasset'
+[2017.12.22-09.29.38:893][543]SourceControl: rm 'Content/Blueprints/Timer.uasset'
+[2017.12.22-09.29.40:773][700]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.22-09.29.40:880][700]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2017.12.22-09.29.42:352][700]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-09.29.42:353][700]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.22-09.31.48:021][743]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.22-09.31.51:343][138]BlueprintLog: New page: Compile BowlerHud
+[2017.12.22-09.31.52:233][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BowlerHud" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/BowlerHud.uasset" SILENT=true
+[2017.12.22-09.31.52:279][175]LogSavePackage: Save=25.84ms
+[2017.12.22-09.31.52:279][175]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/BowlerHudCA6EFBEF439F019D71AFE7971228BFAB.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/BowlerHud.uasset'
+[2017.12.22-09.31.52:284][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/BowlerHud.uasset
+[2017.12.22-09.31.53:462][309]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.31.53:524][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.31.53:524][309]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:31:53 PM)
+[2017.12.22-09.31.53:525][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.31.53:526][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001617s)
+[2017.12.22-09.31.53:527][309]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.31.53:527][309]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2017.12.22-09.31.53:527][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002714s)
+[2017.12.22-09.31.53:603][309]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.31.53:620][309]LogInit: FAudioDevice initialized.
+[2017.12.22-09.31.53:669][309]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.31.53:671][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.31.53
+[2017.12.22-09.31.53:671][309]LogWorld: Bringing up level for play took: 0.001005
+[2017.12.22-09.31.53:672][309]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.31.53:752][309]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.12.22-09.31.53:753][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.876
+[2017.12.22-09.31.53:782][310]LogRenderer: Reallocating scene render targets to support 904x460 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-09.32.11:031][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.32.11:075][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.32.11:076][ 39]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:32:11 PM)
+[2017.12.22-09.32.11:076][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.32.11:078][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001956s)
+[2017.12.22-09.32.11:079][ 39]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.32.11:079][ 39]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2017.12.22-09.32.11:079][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003111s)
+[2017.12.22-09.32.11:146][ 39]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.32.11:162][ 39]LogInit: FAudioDevice initialized.
+[2017.12.22-09.32.11:262][ 39]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.32.11:264][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.32.11
+[2017.12.22-09.32.11:264][ 39]LogWorld: Bringing up level for play took: 0.000938
+[2017.12.22-09.32.11:264][ 39]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.12.22-09.32.11:264][ 39]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.32.11:267][ 39]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.389
+[2017.12.22-09.32.11:299][ 39]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-09.32.23:183][374]SourceControl: On branch master
+[2017.12.22-09.32.23:183][374]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-09.32.23:183][374]SourceControl: Changes to be committed:
+[2017.12.22-09.32.23:183][374]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-09.32.23:183][374]SourceControl: 	deleted:    Content/Blueprints/BowlingHud.uasset
+[2017.12.22-09.32.23:183][374]SourceControl: 	deleted:    Content/Blueprints/Score.uasset
+[2017.12.22-09.32.23:183][374]SourceControl: 	deleted:    Content/Blueprints/Timer.uasset
+[2017.12.22-09.32.23:183][374]SourceControl: 	deleted:    Content/HUD/BowlingHud.uasset
+[2017.12.22-09.32.23:183][374]SourceControl: Changes not staged for commit:
+[2017.12.22-09.32.23:183][374]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.22-09.32.23:183][374]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-09.32.23:183][374]SourceControl: 	modified:   Content/HUD/BowlerHud.uasset
+[2017.12.22-09.32.23:183][374]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-09.32.23:183][374]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-09.32.23:183][374]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-09.32.23:183][374]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-09.32.23:183][374]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-09.32.23:183][374]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-09.32.23:183][374]SourceControl: Untracked files:
+[2017.12.22-09.32.23:183][374]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-09.32.23:183][374]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-31-52.uasset
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud_C' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.SKEL_BowlerHud_C' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.SKEL_BowlerHud_C:ReceiveBeginPlay' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:728][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.SKEL_BowlerHud_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:729][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.SKEL_BowlerHud_C:ReceiveTick' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:729][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.SKEL_BowlerHud_C:DefaultSceneRoot' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:729][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.SKEL_BowlerHud_C:UserConstructionScript' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:729][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud_C:DefaultSceneRoot' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:729][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud_C:ReceiveBeginPlay' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:729][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud_C:UserConstructionScript' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:729][374]LogMetaData: Removing '/Game/Blueprints/BowlerHud.BowlerHud_C:ExecuteUbergraph_BowlerHud' ref from Metadata '/Game/HUD/BowlerHud.PackageMetaData'
+[2017.12.22-09.32.23:754][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BowlerHud" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset" SILENT=true
+[2017.12.22-09.32.23:781][374]LogSavePackage: Save=24.21ms
+[2017.12.22-09.32.23:781][374]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/BowlerHud8C11156848367684D68E9DA00E87FF19.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset'
+[2017.12.22-09.32.23:785][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.32.24:179][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/BowlerHud" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/BowlerHud.uasset" SILENT=true
+[2017.12.22-09.32.24:197][374]LogSavePackage: Save=7.72ms
+[2017.12.22-09.32.24:197][374]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/BowlerHud7851EEA947AF4C82488E56B0EDE522B0.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/BowlerHud.uasset'
+[2017.12.22-09.32.24:201][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/BowlerHud.uasset
+[2017.12.22-09.32.27:109][621]SourceControl: On branch master
+[2017.12.22-09.32.27:109][621]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-09.32.27:109][621]SourceControl: Changes to be committed:
+[2017.12.22-09.32.27:109][621]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-09.32.27:109][621]SourceControl: 	renamed:    Content/Blueprints/BowlingHud.uasset -> Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.32.27:109][621]SourceControl: 	deleted:    Content/Blueprints/Score.uasset
+[2017.12.22-09.32.27:109][621]SourceControl: 	deleted:    Content/Blueprints/Timer.uasset
+[2017.12.22-09.32.27:109][621]SourceControl: 	modified:   Content/HUD/BowlerHud.uasset
+[2017.12.22-09.32.27:109][621]SourceControl: 	deleted:    Content/HUD/BowlingHud.uasset
+[2017.12.22-09.32.27:109][621]SourceControl: Changes not staged for commit:
+[2017.12.22-09.32.27:109][621]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.22-09.32.27:109][621]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-09.32.27:109][621]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-09.32.27:109][621]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-09.32.27:109][621]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-09.32.27:109][621]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-09.32.27:109][621]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-09.32.27:109][621]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-09.32.27:109][621]SourceControl: Untracked files:
+[2017.12.22-09.32.27:109][621]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-09.32.27:109][621]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-31-52.uasset
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer_C' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer:Get_Minutes_Text_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer:Get_Minutes_Text_0.K2Node_FunctionResult_0' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer:Get_Seconds_Text_0.K2Node_FunctionEntry_1' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer:Get_Seconds_Text_0.K2Node_FunctionResult_1' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.SKEL_Timer_C:PreConstruct' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.SKEL_Timer_C:Construct' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.SKEL_Timer_C:Tick' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.SKEL_Timer_C:Seconds' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.SKEL_Timer_C:Minutes' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.SKEL_Timer_C' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer_C:Seconds' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:506][621]LogMetaData: Removing '/Game/Blueprints/Timer.Timer_C:Minutes' ref from Metadata '/Game/HUD/Timer.PackageMetaData'
+[2017.12.22-09.32.27:531][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Timer" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset" SILENT=true
+[2017.12.22-09.32.27:586][621]LogSavePackage: Save=51.84ms
+[2017.12.22-09.32.27:586][621]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TimerD1B49B0C4C09E641FCBB259362D9FD67.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset'
+[2017.12.22-09.32.27:592][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset
+[2017.12.22-09.32.27:927][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Timer" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/Timer.uasset" SILENT=true
+[2017.12.22-09.32.27:950][621]LogSavePackage: Save=6.57ms
+[2017.12.22-09.32.27:951][621]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Timer1E7F04E74CB12A43E446A4AC8642E9F5.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/Timer.uasset'
+[2017.12.22-09.32.27:955][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/HUD/Timer.uasset
+[2017.12.22-09.32.33:956][280]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.22-09.32.37:078][651]BlueprintLog: New page: Compile BowlerHud
+[2017.12.22-09.32.37:930][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BowlerHud" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset" SILENT=true
+[2017.12.22-09.32.37:966][696]LogSavePackage: Save=23.97ms
+[2017.12.22-09.32.37:966][696]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/BowlerHud635D24DB4672B6B1F0D595812CA5BFE9.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset'
+[2017.12.22-09.32.37:972][696]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.32.39:203][840]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.32.39:234][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.32.39:234][840]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:32:39 PM)
+[2017.12.22-09.32.39:234][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.32.39:236][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001541s)
+[2017.12.22-09.32.39:236][840]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.32.39:237][840]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2017.12.22-09.32.39:237][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002582s)
+[2017.12.22-09.32.39:309][840]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.32.39:325][840]LogInit: FAudioDevice initialized.
+[2017.12.22-09.32.39:358][840]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.32.39:359][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.32.39
+[2017.12.22-09.32.39:360][840]LogWorld: Bringing up level for play took: 0.000734
+[2017.12.22-09.32.39:360][840]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.32.39:361][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.483
+[2017.12.22-09.33.14:966][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Timer1" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer1.uasset" SILENT=true
+[2017.12.22-09.33.15:021][892]LogSavePackage: Save=51.27ms
+[2017.12.22-09.33.15:021][892]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Timer1C2CF1D774664C60AA5074E982943D617.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer1.uasset'
+[2017.12.22-09.33.15:025][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer1.uasset
+[2017.12.22-09.33.23:145][240]SourceControl: rm 'Content/Blueprints/Timer.uasset'
+[2017.12.22-09.33.28:150][771]SourceControl: On branch master
+[2017.12.22-09.33.28:150][771]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-09.33.28:150][771]SourceControl: Changes to be committed:
+[2017.12.22-09.33.28:150][771]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-09.33.28:150][771]SourceControl: 	renamed:    Content/Blueprints/BowlingHud.uasset -> Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	deleted:    Content/Blueprints/Score.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	deleted:    Content/Blueprints/Timer.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	new file:   Content/Blueprints/Timer1.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Content/HUD/BowlerHud.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	deleted:    Content/HUD/BowlingHud.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Content/HUD/Timer.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: Changes not staged for commit:
+[2017.12.22-09.33.28:150][771]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.22-09.33.28:150][771]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-09.33.28:150][771]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-09.33.28:150][771]SourceControl: Untracked files:
+[2017.12.22-09.33.28:150][771]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-09.33.28:150][771]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-31-52.uasset
+[2017.12.22-09.33.28:150][771]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-32-27.uasset
+[2017.12.22-09.33.28:789][771]LogMetaData: Removing '/Game/Blueprints/Timer.SKEL_Timer_C' ref from Metadata '/Game/Blueprints/Timer1.PackageMetaData'
+[2017.12.22-09.33.28:789][771]LogMetaData: Removing '/Game/Blueprints/Timer.Timer_C' ref from Metadata '/Game/Blueprints/Timer1.PackageMetaData'
+[2017.12.22-09.33.28:813][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Timer" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset" SILENT=true
+[2017.12.22-09.33.28:865][771]LogSavePackage: Save=48.45ms
+[2017.12.22-09.33.28:865][771]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TimerBEBDB844459ADCAC6B1BA295F11B2553.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset'
+[2017.12.22-09.33.28:869][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset
+[2017.12.22-09.33.33:032][978]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.22-09.33.34:291][ 88]BlueprintLog: New page: Compile BowlerHud
+[2017.12.22-09.33.35:224][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BowlerHud" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset" SILENT=true
+[2017.12.22-09.33.35:260][127]LogSavePackage: Save=24.66ms
+[2017.12.22-09.33.35:260][127]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/BowlerHudF11C198940007B1055C5FEADB9DDD193.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset'
+[2017.12.22-09.33.35:266][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.33.36:400][229]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.33.36:442][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.33.36:442][229]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:33:36 PM)
+[2017.12.22-09.33.36:442][229]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.33.36:444][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001550s)
+[2017.12.22-09.33.36:445][229]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.33.36:445][229]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2017.12.22-09.33.36:445][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002584s)
+[2017.12.22-09.33.36:521][229]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.33.36:537][229]LogInit: FAudioDevice initialized.
+[2017.12.22-09.33.36:570][229]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.33.36:571][229]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.33.36
+[2017.12.22-09.33.36:571][229]LogWorld: Bringing up level for play took: 0.000773
+[2017.12.22-09.33.36:572][229]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.33.36:572][229]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.305
+[2017.12.22-09.33.39:479][496]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.33.39:504][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.33.39:504][496]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:33:39 PM)
+[2017.12.22-09.33.39:504][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.33.39:506][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001557s)
+[2017.12.22-09.33.39:506][496]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.33.39:507][496]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2017.12.22-09.33.39:507][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002604s)
+[2017.12.22-09.33.39:588][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.33.39:604][496]LogInit: FAudioDevice initialized.
+[2017.12.22-09.33.39:640][496]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.33.39:641][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.33.39
+[2017.12.22-09.33.39:641][496]LogWorld: Bringing up level for play took: 0.000712
+[2017.12.22-09.33.39:642][496]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.33.39:642][496]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.765
+[2017.12.22-09.33.48:452][139]SourceControl: rm 'Content/HUD/BowlerHud.uasset'
+[2017.12.22-09.33.48:452][139]SourceControl: rm 'Content/HUD/Timer.uasset'
+[2017.12.22-09.34.14:327][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:327][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:331][626]LogSlate: Took 0.003842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.12.22-09.34.14:331][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:331][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:331][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:331][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:331][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:331][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:331][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:331][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:331][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:331][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:332][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:332][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:333][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:333][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:335][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:335][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:335][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:335][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:335][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:335][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:335][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:335][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:336][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:336][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:337][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:337][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.14:338][626]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.12.22-09.34.14:338][626]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.12.22-09.34.22:230][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Timer" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset" SILENT=true
+[2017.12.22-09.34.22:288][549]LogSavePackage: Save=47.03ms
+[2017.12.22-09.34.22:288][549]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Timer6C8C233E4002E9B3353F8C8016C7513C.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset'
+[2017.12.22-09.34.22:290][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset
+[2017.12.22-09.34.23:859][729]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.34.23:890][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.34.23:890][729]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:34:23 PM)
+[2017.12.22-09.34.23:890][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.34.23:892][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001764s)
+[2017.12.22-09.34.23:893][729]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.34.23:893][729]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2017.12.22-09.34.23:893][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002886s)
+[2017.12.22-09.34.23:966][729]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.34.23:982][729]LogInit: FAudioDevice initialized.
+[2017.12.22-09.34.24:015][729]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.34.24:016][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.34.24
+[2017.12.22-09.34.24:016][729]LogWorld: Bringing up level for play took: 0.001091
+[2017.12.22-09.34.24:017][729]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.34.24:018][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.86
+[2017.12.22-09.36.35:769][905]BlueprintLog: New page: Compile Timer
+[2017.12.22-09.36.36:583][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Timer" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset" SILENT=true
+[2017.12.22-09.36.36:654][963]LogSavePackage: Save=61.09ms
+[2017.12.22-09.36.36:654][963]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Timer0877E930476F1DC5C67DA395691A1F41.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset'
+[2017.12.22-09.36.36:669][963]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset
+[2017.12.22-09.36.37:618][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestPlatform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.22-09.36.37:732][ 48]LogSavePackage: Save=33.90ms
+[2017.12.22-09.36.37:732][ 48]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatformD5E7956942862A77B23FA48A72813661.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap'
+[2017.12.22-09.36.37:735][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap
+[2017.12.22-09.36.37:985][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestPlatform_BuiltData" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset" SILENT=true
+[2017.12.22-09.36.38:023][ 48]LogSavePackage: Save=21.98ms
+[2017.12.22-09.36.38:023][ 48]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatform_BuiltDataE8A04CBB4FC768600ABEEE8911538E78.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset'
+[2017.12.22-09.36.38:026][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset
+[2017.12.22-09.36.38:257][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.36.38:303][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.36.38:303][ 74]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:36:38 PM)
+[2017.12.22-09.36.38:303][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.36.38:305][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001606s)
+[2017.12.22-09.36.38:306][ 74]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.36.38:306][ 74]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2017.12.22-09.36.38:306][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002696s)
+[2017.12.22-09.36.38:384][ 74]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.36.38:400][ 74]LogInit: FAudioDevice initialized.
+[2017.12.22-09.36.38:434][ 74]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.36.38:435][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.36.38
+[2017.12.22-09.36.38:435][ 74]LogWorld: Bringing up level for play took: 0.000913
+[2017.12.22-09.36.38:436][ 74]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.36.38:436][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.441
+[2017.12.22-09.37.03:211][971]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.22-09.37.06:946][413]BlueprintLog: New page: Compile BowlerHud
+[2017.12.22-09.37.07:842][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BowlerHud" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset" SILENT=true
+[2017.12.22-09.37.07:885][453]LogSavePackage: Save=23.00ms
+[2017.12.22-09.37.07:885][453]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/BowlerHud065CA4DE44786BA65A2B06AF30342AC7.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset'
+[2017.12.22-09.37.07:890][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.37.09:119][595]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.37.09:153][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.37.09:153][595]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:37:09 PM)
+[2017.12.22-09.37.09:153][595]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.37.09:155][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001635s)
+[2017.12.22-09.37.09:156][595]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.37.09:156][595]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2017.12.22-09.37.09:156][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002717s)
+[2017.12.22-09.37.09:227][595]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.37.09:244][595]LogInit: FAudioDevice initialized.
+[2017.12.22-09.37.09:283][595]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.37.09:284][595]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.37.09
+[2017.12.22-09.37.09:284][595]LogWorld: Bringing up level for play took: 0.000728
+[2017.12.22-09.37.09:285][595]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.22-09.37.09:285][595]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.408
+[2017.12.22-09.37.20:369][895]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.22-09.37.24:120][337]BlueprintLog: New page: Compile BowlerBallGameMode
+[2017.12.22-09.37.25:080][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BowlerBallGameMode" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerBallGameMode.uasset" SILENT=true
+[2017.12.22-09.37.25:140][367]LogSavePackage: Save=39.81ms
+[2017.12.22-09.37.25:140][367]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/BowlerBallGameMode332EE27641CD0BF44423ECA735EA53F4.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerBallGameMode.uasset'
+[2017.12.22-09.37.25:146][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/BowlerBallGameMode.uasset
+[2017.12.22-09.37.25:895][455]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.37.25:928][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.37.25:928][455]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:37:25 PM)
+[2017.12.22-09.37.25:928][455]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.37.25:930][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001617s)
+[2017.12.22-09.37.25:931][455]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.37.25:931][455]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2017.12.22-09.37.25:931][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002741s)
+[2017.12.22-09.37.26:003][455]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.37.26:019][455]LogInit: FAudioDevice initialized.
+[2017.12.22-09.37.26:058][455]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.37.26:059][455]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.37.26
+[2017.12.22-09.37.26:059][455]LogWorld: Bringing up level for play took: 0.000862
+[2017.12.22-09.37.26:061][455]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.816
+[2017.12.22-09.37.57:185][979]BlueprintLog: New page: Compile Timer
+[2017.12.22-09.37.58:096][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Timer" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset" SILENT=true
+[2017.12.22-09.37.58:191][ 52]LogSavePackage: Save=75.35ms
+[2017.12.22-09.37.58:191][ 52]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TimerA8D55BD14EC9E4FCF6D072813DBB6C9E.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset'
+[2017.12.22-09.37.58:197][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Timer.uasset
+[2017.12.22-09.37.59:497][202]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.37.59:546][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.37.59:546][202]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:37:59 PM)
+[2017.12.22-09.37.59:547][202]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.37.59:548][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001639s)
+[2017.12.22-09.37.59:549][202]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.37.59:549][202]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2017.12.22-09.37.59:549][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002758s)
+[2017.12.22-09.37.59:621][202]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.37.59:637][202]LogInit: FAudioDevice initialized.
+[2017.12.22-09.37.59:672][202]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.37.59:673][202]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.37.59
+[2017.12.22-09.37.59:674][202]LogWorld: Bringing up level for play took: 0.000756
+[2017.12.22-09.37.59:675][202]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.798
+[2017.12.22-09.38.46:790][637]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.38.51:820][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.38.51:972][110]LogSavePackage: Save=133.21ms
+[2017.12.22-09.38.51:972][110]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform45540A034DBE1E692D68A59621688A34.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.38.51:977][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.39.19:127][179]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.39.20:512][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.39.20:661][224]LogSavePackage: Save=138.14ms
+[2017.12.22-09.39.20:661][224]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformC7F8029647EC754EF63FF2BFA1DC4B9D.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.39.20:665][224]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.39.21:740][349]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.39.21:784][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.39.21:784][349]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:39:21 PM)
+[2017.12.22-09.39.21:784][349]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.39.21:786][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001617s)
+[2017.12.22-09.39.21:787][349]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.39.21:787][349]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2017.12.22-09.39.21:787][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002721s)
+[2017.12.22-09.39.21:861][349]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.39.21:877][349]LogInit: FAudioDevice initialized.
+[2017.12.22-09.39.21:916][349]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.39.21:918][349]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.39.21
+[2017.12.22-09.39.21:918][349]LogWorld: Bringing up level for play took: 0.000871
+[2017.12.22-09.39.21:919][349]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.042
+[2017.12.22-09.39.33:103][657]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.39.34:326][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.39.34:539][698]LogSavePackage: Save=202.15ms
+[2017.12.22-09.39.34:541][698]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform538C960847C22254F1EFD1A7F83396BF.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.39.34:545][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.39.35:912][854]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.39.35:955][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.39.35:955][854]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:39:35 PM)
+[2017.12.22-09.39.35:955][854]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.39.35:957][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001911s)
+[2017.12.22-09.39.35:958][854]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.39.35:958][854]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2017.12.22-09.39.35:959][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003175s)
+[2017.12.22-09.39.36:030][854]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.39.36:044][854]LogInit: FAudioDevice initialized.
+[2017.12.22-09.39.36:084][854]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.39.36:085][854]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.39.36
+[2017.12.22-09.39.36:085][854]LogWorld: Bringing up level for play took: 0.000829
+[2017.12.22-09.39.36:086][854]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.791
+[2017.12.22-09.39.45:704][978]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.39.46:976][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.39.47:124][ 20]LogSavePackage: Save=136.68ms
+[2017.12.22-09.39.47:124][ 20]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformC0F684CF42146DBE2706CE8AFB600277.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.39.47:129][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.39.47:998][119]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.39.48:045][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.39.48:045][119]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:39:48 PM)
+[2017.12.22-09.39.48:045][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.39.48:047][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001767s)
+[2017.12.22-09.39.48:048][119]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.39.48:048][119]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2017.12.22-09.39.48:048][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003073s)
+[2017.12.22-09.39.48:122][119]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.39.48:140][119]LogInit: FAudioDevice initialized.
+[2017.12.22-09.39.48:176][119]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.39.48:177][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.39.48
+[2017.12.22-09.39.48:177][119]LogWorld: Bringing up level for play took: 0.000749
+[2017.12.22-09.39.48:179][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.699
+[2017.12.22-09.40.35:541][666]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.40.36:826][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.40.36:979][707]LogSavePackage: Save=141.50ms
+[2017.12.22-09.40.36:979][707]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformA2337F35403FA325EBCAA5B92C2502D5.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.40.36:984][707]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.40.38:240][851]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.40.38:286][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.40.38:286][851]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:40:38 PM)
+[2017.12.22-09.40.38:286][851]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.40.38:288][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001632s)
+[2017.12.22-09.40.38:289][851]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.40.38:289][851]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2017.12.22-09.40.38:289][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002714s)
+[2017.12.22-09.40.38:354][851]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.40.38:370][851]LogInit: FAudioDevice initialized.
+[2017.12.22-09.40.38:403][851]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.40.38:404][851]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.40.38
+[2017.12.22-09.40.38:405][851]LogWorld: Bringing up level for play took: 0.000755
+[2017.12.22-09.40.38:406][851]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.471
+[2017.12.22-09.41.26:063][467]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.41.27:295][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.41.27:445][504]LogSavePackage: Save=139.07ms
+[2017.12.22-09.41.27:445][504]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformF5F29AC442F9494FBF2A7C916C04BF84.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.41.27:450][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.41.28:838][665]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.41.28:891][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.41.28:891][665]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:41:28 PM)
+[2017.12.22-09.41.28:891][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.41.28:893][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001583s)
+[2017.12.22-09.41.28:893][665]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.41.28:893][665]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2017.12.22-09.41.28:894][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002655s)
+[2017.12.22-09.41.28:969][665]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.41.28:985][665]LogInit: FAudioDevice initialized.
+[2017.12.22-09.41.29:023][665]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.41.29:024][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.41.29
+[2017.12.22-09.41.29:024][665]LogWorld: Bringing up level for play took: 0.000733
+[2017.12.22-09.41.29:026][665]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.148
+[2017.12.22-09.41.53:009][461]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.41.54:154][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.41.54:307][487]LogSavePackage: Save=141.96ms
+[2017.12.22-09.41.54:307][487]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform4D9A031440288B7F168788AC9BDEF936.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.41.54:313][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.41.55:306][601]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.41.55:362][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.41.55:362][601]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:41:55 PM)
+[2017.12.22-09.41.55:362][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.41.55:364][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001655s)
+[2017.12.22-09.41.55:365][601]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.41.55:365][601]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2017.12.22-09.41.55:365][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002917s)
+[2017.12.22-09.41.55:441][601]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.41.55:456][601]LogInit: FAudioDevice initialized.
+[2017.12.22-09.41.55:489][601]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.41.55:490][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.41.55
+[2017.12.22-09.41.55:491][601]LogWorld: Bringing up level for play took: 0.000733
+[2017.12.22-09.41.55:492][601]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.615
+[2017.12.22-09.42.06:353][881]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.42.06:386][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.42.06:386][881]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:42:06 PM)
+[2017.12.22-09.42.06:386][881]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.42.06:388][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001831s)
+[2017.12.22-09.42.06:389][881]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.42.06:389][881]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2017.12.22-09.42.06:389][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003043s)
+[2017.12.22-09.42.06:457][881]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.42.06:472][881]LogInit: FAudioDevice initialized.
+[2017.12.22-09.42.06:511][881]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.42.06:512][881]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.42.06
+[2017.12.22-09.42.06:512][881]LogWorld: Bringing up level for play took: 0.000785
+[2017.12.22-09.42.06:514][881]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.364
+[2017.12.22-09.42.28:614][434]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.42.29:845][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.42.29:999][474]LogSavePackage: Save=142.08ms
+[2017.12.22-09.42.29:999][474]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform8311249F42FB7A0486FED99F1ACD89A2.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.42.30:004][474]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.42.31:843][691]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.42.31:895][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.42.31:895][691]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:42:31 PM)
+[2017.12.22-09.42.31:895][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.42.31:897][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001982s)
+[2017.12.22-09.42.31:898][691]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.42.31:898][691]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2017.12.22-09.42.31:898][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003174s)
+[2017.12.22-09.42.31:969][691]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.42.31:984][691]LogInit: FAudioDevice initialized.
+[2017.12.22-09.42.32:017][691]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.42.32:018][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.42.32
+[2017.12.22-09.42.32:018][691]LogWorld: Bringing up level for play took: 0.000781
+[2017.12.22-09.42.32:020][691]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.142
+[2017.12.22-09.42.43:103][992]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.42.44:098][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.42.44:253][  2]LogSavePackage: Save=141.32ms
+[2017.12.22-09.42.44:253][  2]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformB201859049F77B9D9CE0F596EAD8B459.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.42.44:259][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.42.45:039][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.42.45:084][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.42.45:084][ 90]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:42:45 PM)
+[2017.12.22-09.42.45:084][ 90]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.42.45:086][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001580s)
+[2017.12.22-09.42.45:087][ 90]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.42.45:087][ 90]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2017.12.22-09.42.45:087][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002844s)
+[2017.12.22-09.42.45:154][ 90]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.42.45:171][ 90]LogInit: FAudioDevice initialized.
+[2017.12.22-09.42.45:206][ 90]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.42.45:208][ 90]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.42.45
+[2017.12.22-09.42.45:208][ 90]LogWorld: Bringing up level for play took: 0.000944
+[2017.12.22-09.42.45:210][ 90]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.333
+[2017.12.22-09.43.28:113][ 37]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.43.29:849][163]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.43.29:903][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.43.29:903][163]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:43:29 PM)
+[2017.12.22-09.43.29:903][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.43.29:905][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001873s)
+[2017.12.22-09.43.29:906][163]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.43.29:906][163]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2017.12.22-09.43.29:906][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003129s)
+[2017.12.22-09.43.29:984][163]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.43.30:000][163]LogInit: FAudioDevice initialized.
+[2017.12.22-09.43.30:037][163]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.43.30:039][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.43.30
+[2017.12.22-09.43.30:039][163]LogWorld: Bringing up level for play took: 0.000902
+[2017.12.22-09.43.30:041][163]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 1.163
+[2017.12.22-09.44.39:507][251]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.44.40:760][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.44.40:919][287]LogSavePackage: Save=139.00ms
+[2017.12.22-09.44.40:919][287]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform6F30E61240AEF83281DEF0A68DC5D956.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.44.40:924][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.44.41:570][359]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.44.41:616][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.44.41:616][359]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:44:41 PM)
+[2017.12.22-09.44.41:616][359]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.44.41:618][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001594s)
+[2017.12.22-09.44.41:619][359]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.44.41:619][359]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2017.12.22-09.44.41:619][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002805s)
+[2017.12.22-09.44.41:691][359]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.44.41:707][359]LogInit: FAudioDevice initialized.
+[2017.12.22-09.44.41:745][359]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.44.41:746][359]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.44.41
+[2017.12.22-09.44.41:747][359]LogWorld: Bringing up level for play took: 0.001094
+[2017.12.22-09.44.41:748][359]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.871
+[2017.12.22-09.45.19:040][695]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.45.19:937][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.45.20:087][695]LogSavePackage: Save=138.38ms
+[2017.12.22-09.45.20:087][695]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformCFD7A5454C2CAFE7221545B2B42030D9.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.45.20:092][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.45.20:676][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.45.20:822][732]LogSavePackage: Save=134.37ms
+[2017.12.22-09.45.20:822][732]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform2A1C20F346991D15C786F0A1AE2FD25F.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.45.20:824][732]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.45.41:267][ 80]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.45.42:288][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.45.42:443][ 91]LogSavePackage: Save=144.19ms
+[2017.12.22-09.45.42:443][ 91]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform7C36C3F64D17A4C5C1959F8DC3E7D51A.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.45.42:449][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.45.43:253][183]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.45.43:310][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.45.43:310][183]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:45:43 PM)
+[2017.12.22-09.45.43:310][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.45.43:312][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001666s)
+[2017.12.22-09.45.43:313][183]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.45.43:313][183]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2017.12.22-09.45.43:313][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002853s)
+[2017.12.22-09.45.43:386][183]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.45.43:404][183]LogInit: FAudioDevice initialized.
+[2017.12.22-09.45.43:441][183]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.45.43:443][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.45.43
+[2017.12.22-09.45.43:443][183]LogWorld: Bringing up level for play took: 0.000763
+[2017.12.22-09.45.43:445][183]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.567
+[2017.12.22-09.47.01:817][525]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.47.13:520][820]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.47.14:759][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.47.14:933][841]LogSavePackage: Save=162.11ms
+[2017.12.22-09.47.14:933][841]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformC09109C643029ED331061D93A8D6B8ED.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.47.14:939][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.47.18:336][236]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.47.18:390][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.47.18:390][236]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:47:18 PM)
+[2017.12.22-09.47.18:390][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.47.18:392][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001650s)
+[2017.12.22-09.47.18:392][236]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.47.18:393][236]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2017.12.22-09.47.18:393][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002735s)
+[2017.12.22-09.47.18:460][236]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.47.18:476][236]LogInit: FAudioDevice initialized.
+[2017.12.22-09.47.18:514][236]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.47.18:515][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.47.18
+[2017.12.22-09.47.18:515][236]LogWorld: Bringing up level for play took: 0.000752
+[2017.12.22-09.47.18:517][236]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.361
+[2017.12.22-09.47.35:414][213]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.48.02:504][359]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.48.47:366][549]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.49.06:845][798]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.49.56:123][869]LogSavePackage: Save=37.10ms
+[2017.12.22-09.49.56:123][869]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatform_Auto187711AAA47CACC60E1C538A3E9CF817F.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Maps/TestPlatform_Auto1.umap'
+[2017.12.22-09.49.56:126][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Maps/TestPlatform_Auto1.umap
+[2017.12.22-09.49.56:129][869]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestPlatform' took 0.124
+[2017.12.22-09.49.56:129][869]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2017.12.22-09.49.56:132][869]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Platform] ([1] browsable assets)...
+[2017.12.22-09.49.56:155][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Platform.Platform]
+[2017.12.22-09.49.56:155][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Platform]
+[2017.12.22-09.49.56:330][869]LogSavePackage: Save=155.86ms
+[2017.12.22-09.49.56:332][869]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform_Auto188C61B2C435D8B6561B91B9EC892C3FF.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Blueprints/Platform_Auto1.uasset'
+[2017.12.22-09.49.56:335][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Blueprints/Platform_Auto1.uasset
+[2017.12.22-09.49.56:335][869]LogFileHelpers: Auto-saving content packages took 0.204
+[2017.12.22-09.50.40:684][  3]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.50.41:745][ 50]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.51.21:805][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformEnum" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformEnum.uasset" SILENT=true
+[2017.12.22-09.51.21:817][604]LogSavePackage: Save=8.05ms
+[2017.12.22-09.51.21:817][604]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformEnum415487164AA59B8D302EB58AF5E8429B.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformEnum.uasset'
+[2017.12.22-09.51.21:822][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformEnum.uasset
+[2017.12.22-09.51.42:927][ 49]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.22-09.52.52:556][927]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.52.54:362][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.52.54:519][ 22]LogSavePackage: Save=144.13ms
+[2017.12.22-09.52.54:520][ 22]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform6F0F9D4D4B1FFF52949A1885A04937AD.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.52.54:530][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.52.56:035][195]LogEditorViewport: Clicking Background
+[2017.12.22-09.52.56:927][300]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.22-09.53.01:545][790]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.53.01:599][790]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.22-09.53.01:601][790]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2017.12.22-09.53.01:662][790]LogPlayLevel: PlayLevel: Blueprint regeneration took 63 ms (1 blueprints)
+[2017.12.22-09.53.01:663][790]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:53:01 PM)
+[2017.12.22-09.53.01:663][790]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.53.01:664][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001576s)
+[2017.12.22-09.53.01:665][790]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.53.01:665][790]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2017.12.22-09.53.01:666][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002737s)
+[2017.12.22-09.53.01:735][790]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.53.01:751][790]LogInit: FAudioDevice initialized.
+[2017.12.22-09.53.01:785][790]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.53.01:786][790]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.53.01
+[2017.12.22-09.53.01:786][790]LogWorld: Bringing up level for play took: 0.000748
+[2017.12.22-09.53.01:788][790]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.91
+[2017.12.22-09.53.10:291][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.53.10:439][752]LogSavePackage: Save=135.11ms
+[2017.12.22-09.53.10:439][752]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformA62D0818461B207A85FEA5BE15F71F5C.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.53.10:441][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.53.16:572][466]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.53.18:853][656]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.53.18:899][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.53.18:899][656]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:53:18 PM)
+[2017.12.22-09.53.18:899][656]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.53.18:901][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001652s)
+[2017.12.22-09.53.18:902][656]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.53.18:902][656]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2017.12.22-09.53.18:902][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002754s)
+[2017.12.22-09.53.18:972][656]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.53.18:988][656]LogInit: FAudioDevice initialized.
+[2017.12.22-09.53.19:019][656]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.53.19:021][656]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.53.19
+[2017.12.22-09.53.19:021][656]LogWorld: Bringing up level for play took: 0.000765
+[2017.12.22-09.53.19:022][656]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.145
+[2017.12.22-09.53.45:058][714]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.53.46:402][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.53.46:562][762]LogSavePackage: Save=148.88ms
+[2017.12.22-09.53.46:562][762]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform45C367D74067CA8DF8C54F8B9437898A.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.53.46:567][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.53.47:340][850]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.53.47:388][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.53.47:388][850]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:53:47 PM)
+[2017.12.22-09.53.47:388][850]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.53.47:390][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2017.12.22-09.53.47:391][850]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.53.47:391][850]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2017.12.22-09.53.47:391][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002960s)
+[2017.12.22-09.53.47:457][850]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.53.47:473][850]LogInit: FAudioDevice initialized.
+[2017.12.22-09.53.47:506][850]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.53.47:507][850]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.53.47
+[2017.12.22-09.53.47:507][850]LogWorld: Bringing up level for play took: 0.000997
+[2017.12.22-09.53.47:509][850]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.632
+[2017.12.22-09.54.26:245][972]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.22-09.56.29:651][823]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.56.31:025][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.56.31:193][869]LogSavePackage: Save=146.78ms
+[2017.12.22-09.56.31:193][869]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformFCF76A20468D34ADC823D1BF91DF4B6C.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.56.31:200][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.56.53:282][297]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.56.54:231][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.56.54:396][297]LogSavePackage: Save=151.97ms
+[2017.12.22-09.56.54:396][297]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformD1319B9847DFC6D4002BB685F3A86464.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.56.54:401][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.56.55:214][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.56.55:377][328]LogSavePackage: Save=150.89ms
+[2017.12.22-09.56.55:378][328]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform43E157234683EEB00408258104A9EAE5.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.56.55:380][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.56.57:606][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestPlatform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.22-09.56.57:715][531]LogSavePackage: Save=29.99ms
+[2017.12.22-09.56.57:715][531]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatform487AECF14E7C3CDE2751069DAAECDA43.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap'
+[2017.12.22-09.56.57:720][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap
+[2017.12.22-09.56.57:962][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestPlatform_BuiltData" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset" SILENT=true
+[2017.12.22-09.56.58:005][531]LogSavePackage: Save=23.53ms
+[2017.12.22-09.56.58:005][531]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatform_BuiltData15A5C75E484DA18E7BD2C2A759DB83CD.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset'
+[2017.12.22-09.56.58:008][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset
+[2017.12.22-09.57.03:796][147]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.22-09.57.04:143][180]LogEditorViewport: Clicking on Actor (context menu): Platform_C (Platform)
+[2017.12.22-09.58.36:678][932]SourceControl: On branch master
+[2017.12.22-09.58.36:678][932]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-09.58.36:678][932]SourceControl: Changes to be committed:
+[2017.12.22-09.58.36:678][932]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-09.58.36:678][932]SourceControl: 	renamed:    Content/Blueprints/BowlingHud.uasset -> Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.58.36:678][932]SourceControl: 	new file:   Content/Blueprints/PlatformEnum.uasset
+[2017.12.22-09.58.36:678][932]SourceControl: 	deleted:    Content/Blueprints/Score.uasset
+[2017.12.22-09.58.36:678][932]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-09.58.36:678][932]SourceControl: 	new file:   Content/Blueprints/Timer1.uasset
+[2017.12.22-09.58.36:678][932]SourceControl: 	deleted:    Content/HUD/BowlerHud.uasset
+[2017.12.22-09.58.36:678][932]SourceControl: 	deleted:    Content/HUD/BowlingHud.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	deleted:    Content/HUD/Timer.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: Changes not staged for commit:
+[2017.12.22-09.58.36:679][932]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.22-09.58.36:679][932]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Content/Blueprints/BowlerBallGameMode.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Content/Blueprints/BowlerHud.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Content/Blueprints/Platform.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Content/Maps/TestPlatform.umap
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Content/Maps/TestPlatform_BuiltData.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Platform_Auto1.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto1.umap
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-09.58.36:679][932]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-09.58.36:679][932]SourceControl: Untracked files:
+[2017.12.22-09.58.36:679][932]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-02-37-25.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-31-52.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-37-07.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-38-51.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-44-40.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-49-56.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-56-31.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-36-37.umap
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-49-56.umap
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-56-57.umap
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-36-37.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-56-57.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-32-27.uasset
+[2017.12.22-09.58.36:679][932]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-37-58.uasset
+[2017.12.22-09.58.37:306][932]LogMetaData: Removing '/Game/Blueprints/PlatType.PlatType' ref from Metadata '/Game/Blueprints/PlatformEnum.PackageMetaData'
+[2017.12.22-09.58.37:337][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatType" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatType.uasset" SILENT=true
+[2017.12.22-09.58.37:346][932]LogSavePackage: Save=6.75ms
+[2017.12.22-09.58.37:346][932]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatType04C0B1EE41286B198B3BB2A49B7D6359.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatType.uasset'
+[2017.12.22-09.58.37:352][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatType.uasset
+[2017.12.22-09.58.39:666][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.58.39:825][932]LogSavePackage: Save=148.13ms
+[2017.12.22-09.58.39:825][932]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformFE0DEC96490D2AC1B3B895B24CDCD7BD.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.58.39:832][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.58.54:397][474]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.58.54:517][474]LogBlueprint: Error: [Compiler Platform] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.12.22-09.58.54:743][474]LogBlueprint: Warning: [Compiler Platform] [1854.32] Compile of Platform failed. 1 Fatal Issue(s) 0 Warning(s) [in 346 ms] (/Game/Blueprints/Platform.Platform)
+[2017.12.22-09.58.55:324][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.58.55:477][512]LogSavePackage: Save=141.29ms
+[2017.12.22-09.58.55:477][512]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform4A0759B3413EC843798C6ABD823573E2.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.58.55:481][512]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.59.03:306][419]BlueprintLog: New page: Compile Platform
+[2017.12.22-09.59.04:959][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-09.59.05:118][554]LogSavePackage: Save=146.59ms
+[2017.12.22-09.59.05:118][554]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform9F96E5634019157691A63DB23E03590E.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-09.59.05:124][554]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-09.59.06:633][711]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-09.59.06:688][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-09.59.06:689][711]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 7:59:06 PM)
+[2017.12.22-09.59.06:689][711]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-09.59.06:691][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001844s)
+[2017.12.22-09.59.06:691][711]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-09.59.06:692][711]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2017.12.22-09.59.06:692][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003098s)
+[2017.12.22-09.59.06:763][711]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-09.59.06:779][711]LogInit: FAudioDevice initialized.
+[2017.12.22-09.59.06:816][711]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-09.59.06:817][711]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-02.59.06
+[2017.12.22-09.59.06:817][711]LogWorld: Bringing up level for play took: 0.000730
+[2017.12.22-09.59.06:819][711]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.058
+[2017.12.22-09.59.08:161][852]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.22-09.59.41:829][  2]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.22-09.59.41:920][  2]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.22-09.59.59:117][688]BlueprintLog: New page: Compile Platform
+[2017.12.22-10.00.00:374][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset" SILENT=true
+[2017.12.22-10.00.00:530][721]LogSavePackage: Save=144.12ms
+[2017.12.22-10.00.00:530][721]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform3230EDA64A8EFA365A4A1CB6D805690C.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset'
+[2017.12.22-10.00.00:535][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform.uasset
+[2017.12.22-10.00.29:307][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.00.29:361][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.00.29:362][ 55]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:00:29 PM)
+[2017.12.22-10.00.29:362][ 55]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.00.29:363][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001647s)
+[2017.12.22-10.00.29:364][ 55]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.00.29:364][ 55]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2017.12.22-10.00.29:364][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002730s)
+[2017.12.22-10.00.29:442][ 55]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.00.29:457][ 55]LogInit: FAudioDevice initialized.
+[2017.12.22-10.00.29:495][ 55]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.00.29:496][ 55]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.00.29
+[2017.12.22-10.00.29:496][ 55]LogWorld: Bringing up level for play took: 0.000779
+[2017.12.22-10.00.29:498][ 55]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.621
+[2017.12.22-10.00.39:037][157]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.00.39:064][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.00.39:065][157]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:00:39 PM)
+[2017.12.22-10.00.39:065][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.00.39:066][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2017.12.22-10.00.39:067][157]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.00.39:067][157]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2017.12.22-10.00.39:067][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002723s)
+[2017.12.22-10.00.39:143][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.00.39:159][157]LogInit: FAudioDevice initialized.
+[2017.12.22-10.00.39:194][157]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.00.39:195][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.00.39
+[2017.12.22-10.00.39:196][157]LogWorld: Bringing up level for play took: 0.000743
+[2017.12.22-10.00.39:197][157]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.319
+[2017.12.22-10.03.47:530][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.12.22-10.03.47:530][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.22-10.03.47:530][337]LoadErrors: Error: /Game/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Game/Mannequin/Animations/ThirdPerson_AnimBP
+[2017.12.22-10.03.47:533][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.12.22-10.03.47:533][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.22-10.03.47:534][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.12.22-10.03.47:534][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.22-10.03.47:534][337]LoadErrors: Error: /Game/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Game/Mannequin/Character/Mesh/SK_Mannequin
+[2017.12.22-10.03.47:534][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.12.22-10.03.47:534][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.22-10.03.47:539][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.12.22-10.03.47:540][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.12.22-10.03.47:540][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.12.22-10.03.47:540][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.12.22-10.03.47:540][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.12.22-10.03.47:540][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2017.12.22-10.03.47:540][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.12.22-10.03.47:540][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2017.12.22-10.03.47:542][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.12.22-10.03.47:542][337]LoadErrors: Failed to load /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C Referenced by Default__ThirdPersonCharacter_C
+[2017.12.22-10.03.47:542][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.12.22-10.03.47:542][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.12.22-10.03.47:542][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.12.22-10.03.47:542][337]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.12.22-10.03.47:543][337]LoadErrors: Failed to load /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin Referenced by Default__ThirdPersonCharacter_C
+[2017.12.22-10.03.47:543][337]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2017.12.22-10.03.47:573][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2017.12.22-10.03.47:573][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2017.12.22-10.03.47:573][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2017.12.22-10.03.47:573][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.12.22-10.03.47:574][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2017.12.22-10.03.47:574][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2017.12.22-10.03.47:574][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.12.22-10.03.47:574][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.12.22-10.03.47:580][337]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2147.16] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 32 ms] (/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.22-10.03.53:149][890]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.22-10.03.53:180][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2017.12.22-10.03.53:180][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2017.12.22-10.03.53:180][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2017.12.22-10.03.53:180][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.12.22-10.03.53:180][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2017.12.22-10.03.53:181][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2017.12.22-10.03.53:181][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.12.22-10.03.53:181][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.12.22-10.03.53:546][890]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2153.12] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 397 ms] (/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.22-10.04.24:479][468]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.22-10.04.24:500][468]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2017.12.22-10.04.24:500][468]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2017.12.22-10.04.24:500][468]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.12.22-10.04.24:501][468]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.12.22-10.04.24:501][468]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.12.22-10.04.24:849][468]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2184.43] Compile of ThirdPersonCharacter successful, but with 5 Warning(s) [in 369 ms] (/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.22-10.04.33:208][448]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.12.22-10.04.33:208][448]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonGameMode.uasset.
+[2017.12.22-10.04.33:209][448]LoadErrors: Error: /Game/Blueprints/ThirdPersonGameMode : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2017.12.22-10.04.33:209][448]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.12.22-10.04.33:210][448]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonGameMode.uasset.
+[2017.12.22-10.04.33:210][448]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.12.22-10.04.33:210][448]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.12.22-10.04.33:211][448]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.12.22-10.04.33:211][448]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.12.22-10.04.33:211][448]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.12.22-10.04.33:211][448]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C Referenced by Default__ThirdPersonGameMode_C
+[2017.12.22-10.04.33:211][448]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.12.22-10.04.38:407][ 23]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.22-10.04.48:225][194]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.12.22-10.04.49:709][328]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.04.49:739][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.04.49:739][328]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:04:49 PM)
+[2017.12.22-10.04.49:739][328]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.04.49:741][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001559s)
+[2017.12.22-10.04.49:741][328]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.04.49:742][328]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2017.12.22-10.04.49:742][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002667s)
+[2017.12.22-10.04.49:812][328]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.04.49:827][328]LogInit: FAudioDevice initialized.
+[2017.12.22-10.04.49:859][328]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.04.49:860][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.04.49
+[2017.12.22-10.04.49:861][328]LogWorld: Bringing up level for play took: 0.000771
+[2017.12.22-10.04.49:862][328]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.985
+[2017.12.22-10.04.58:966][301]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.04.59:005][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.04.59:005][301]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:04:59 PM)
+[2017.12.22-10.04.59:005][301]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.04.59:007][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001990s)
+[2017.12.22-10.04.59:008][301]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.04.59:008][301]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2017.12.22-10.04.59:009][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003295s)
+[2017.12.22-10.04.59:109][301]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.04.59:123][301]LogInit: FAudioDevice initialized.
+[2017.12.22-10.04.59:158][301]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.04.59:173][301]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.04.59
+[2017.12.22-10.04.59:231][301]LogWorld: Bringing up level for play took: 0.072483
+[2017.12.22-10.04.59:234][301]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.357
+[2017.12.22-10.05.50:689][ 97]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.22-10.05.51:335][131]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BowlerBall
+[2017.12.22-10.05.51:335][131]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.22-10.05.51:335][131]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.22-10.05.51:335][131]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.22-10.05.51:347][132]LogTemp: BranchPath = DESKTOP-OEP2RU7/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-OEP2RU7/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.22-10.05.51:373][134]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Tyson\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.22-10.07.09:791][951]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.22-10.07.09:808][951]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.12.22-10.07.09:808][951]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.12.22-10.07.10:282][951]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2349.86] Compile of ThirdPersonCharacter successful, but with 2 Warning(s) [in 490 ms] (/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.22-10.07.55:506][639]LogSavePackage: Save=42.71ms
+[2017.12.22-10.07.55:506][639]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatform_Auto2ACAC1CB34207B2E40E3D37ADFB59AE7E.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Maps/TestPlatform_Auto2.umap'
+[2017.12.22-10.07.55:508][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Maps/TestPlatform_Auto2.umap
+[2017.12.22-10.07.55:514][639]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestPlatform' took 0.131
+[2017.12.22-10.07.55:515][639]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.131
+[2017.12.22-10.07.55:517][639]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.22-10.07.55:517][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPersonCharacter]
+[2017.12.22-10.07.55:591][639]LogSavePackage: Save=54.25ms
+[2017.12.22-10.07.55:591][639]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/ThirdPersonCharacter_Auto20A355A094B32E1197C465C91542567F5.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2017.12.22-10.07.55:593][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.12.22-10.07.55:594][639]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2017.12.22-10.07.55:594][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPersonGameMode]
+[2017.12.22-10.07.55:625][639]LogSavePackage: Save=11.98ms
+[2017.12.22-10.07.55:625][639]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/ThirdPersonGameMode_Auto222107D2D47D566B7DD116CAFE9D3D364.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Blueprints/ThirdPersonGameMode_Auto2.uasset'
+[2017.12.22-10.07.55:627][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Autosaves/Game/Blueprints/ThirdPersonGameMode_Auto2.uasset
+[2017.12.22-10.07.55:627][639]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.12.22-10.11.48:248][ 72]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.22-10.11.48:264][ 72]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2017.12.22-10.11.48:748][ 72]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2628.33] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 500 ms] (/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.22-10.12.00:599][205]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.22-10.12.00:856][212]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BowlerBall
+[2017.12.22-10.12.00:856][212]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.22-10.12.00:856][212]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.22-10.12.00:856][212]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.22-10.12.00:856][212]LogTemp: BranchPath = DESKTOP-OEP2RU7/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-OEP2RU7/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.22-10.12.00:878][214]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Tyson\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.22-10.12.39:578][132]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.22-10.12.41:328][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.12.22-10.12.41:401][239]LogSavePackage: Save=56.66ms
+[2017.12.22-10.12.41:401][239]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/ThirdPersonCharacter8A4371824B35401AF00448AE3FE1CD5A.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.22-10.12.41:410][239]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.22-10.12.42:941][414]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.12.42:979][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.12.42:979][414]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:12:42 PM)
+[2017.12.22-10.12.42:980][414]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.12.42:982][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002016s)
+[2017.12.22-10.12.42:982][414]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.12.42:983][414]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2017.12.22-10.12.42:983][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003395s)
+[2017.12.22-10.12.43:054][414]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.12.43:071][414]LogInit: FAudioDevice initialized.
+[2017.12.22-10.12.43:104][414]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.12.43:105][414]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.12.43
+[2017.12.22-10.12.43:106][414]LogWorld: Bringing up level for play took: 0.000999
+[2017.12.22-10.12.43:107][414]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.23
+[2017.12.22-10.13.41:876][905]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SCSViewport'
+[2017.12.22-10.16.49:115][346]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Tyson/Desktop/Unreal_Assets/Ball.fbx)
+[2017.12.22-10.16.49:340][346]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.22-10.16.49:340][346]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.12.22-10.16.49:340][346]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.12.22-10.16.49:340][346]LogFbx: ItemName: Model, ItemCount : 3
+[2017.12.22-10.16.49:373][346]LogFbx: Loading FBX Scene from ../../../../../../Users/Tyson/Desktop/Unreal_Assets/Ball.fbx
+[2017.12.22-10.16.49:606][346]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-10.16.51:140][346]LogFbx: Loading FBX Scene from ../../../../../../Users/Tyson/Desktop/Unreal_Assets/Ball.fbx
+[2017.12.22-10.16.51:371][346]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-10.16.52:213][346]LogStaticMesh: Building static mesh Ball...
+[2017.12.22-10.16.56:311][346]LogStaticMesh: Built static mesh [4.10s] /Game/Blueprints/Ball.Ball
+[2017.12.22-10.16.58:110][346]LogStaticMesh: Warning: Ball has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.12.22-10.17.00:222][346]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.22-10.17.00:222][346]FBXImport: Warning: Ball has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.12.22-10.17.15:707][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.22-10.17.15:818][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.22-10.20.20:828][285]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.22-10.20.22:348][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.12.22-10.20.22:432][325]LogSavePackage: Save=61.65ms
+[2017.12.22-10.20.22:432][325]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/ThirdPersonCharacter392D52444C4E64C5933442B2DC4D9DD2.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.22-10.20.22:438][325]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.22-10.20.24:115][517]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.20.24:154][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.20.24:154][517]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:20:24 PM)
+[2017.12.22-10.20.24:154][517]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.20.24:157][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002489s)
+[2017.12.22-10.20.24:157][517]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.20.24:158][517]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2017.12.22-10.20.24:158][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003809s)
+[2017.12.22-10.20.24:231][517]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.20.24:247][517]LogInit: FAudioDevice initialized.
+[2017.12.22-10.20.24:280][517]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.20.24:282][517]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.20.24
+[2017.12.22-10.20.24:282][517]LogWorld: Bringing up level for play took: 0.001063
+[2017.12.22-10.20.24:283][517]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.594
+[2017.12.22-10.20.29:934][173]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.20.29:960][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.20.29:960][173]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:20:29 PM)
+[2017.12.22-10.20.29:960][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.20.29:962][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002073s)
+[2017.12.22-10.20.29:963][173]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.20.29:963][173]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2017.12.22-10.20.29:963][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003135s)
+[2017.12.22-10.20.30:036][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.20.30:052][173]LogInit: FAudioDevice initialized.
+[2017.12.22-10.20.30:084][173]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.20.30:085][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.20.30
+[2017.12.22-10.20.30:086][173]LogWorld: Bringing up level for play took: 0.001058
+[2017.12.22-10.20.30:087][173]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.79
+[2017.12.22-10.20.47:969][250]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.22-10.20.49:593][332]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.20.49:627][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.20.49:628][332]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:20:49 PM)
+[2017.12.22-10.20.49:628][332]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.20.49:630][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002043s)
+[2017.12.22-10.20.49:631][332]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.20.49:631][332]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2017.12.22-10.20.49:631][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003101s)
+[2017.12.22-10.20.49:698][332]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.20.49:714][332]LogInit: FAudioDevice initialized.
+[2017.12.22-10.20.49:747][332]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.20.49:749][332]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.20.49
+[2017.12.22-10.20.49:749][332]LogWorld: Bringing up level for play took: 0.001247
+[2017.12.22-10.20.49:751][332]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.873
+[2017.12.22-10.20.54:655][900]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.20.54:684][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.20.54:684][900]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:20:54 PM)
+[2017.12.22-10.20.54:684][900]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.20.54:686][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002142s)
+[2017.12.22-10.20.54:687][900]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.20.54:687][900]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2017.12.22-10.20.54:687][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003374s)
+[2017.12.22-10.20.54:763][900]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.20.54:778][900]LogInit: FAudioDevice initialized.
+[2017.12.22-10.20.54:813][900]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.20.54:815][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.20.54
+[2017.12.22-10.20.54:815][900]LogWorld: Bringing up level for play took: 0.001179
+[2017.12.22-10.20.54:817][900]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.061
+[2017.12.22-10.21.11:062][630]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.21.11:089][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.21.11:090][630]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:21:11 PM)
+[2017.12.22-10.21.11:090][630]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.21.11:092][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002181s)
+[2017.12.22-10.21.11:093][630]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.21.11:093][630]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2017.12.22-10.21.11:093][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.003506s)
+[2017.12.22-10.21.11:165][630]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.21.11:182][630]LogInit: FAudioDevice initialized.
+[2017.12.22-10.21.11:214][630]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.21.11:215][630]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.21.11
+[2017.12.22-10.21.11:215][630]LogWorld: Bringing up level for play took: 0.001114
+[2017.12.22-10.21.11:217][630]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.34
+[2017.12.22-10.21.37:538][356]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.21.37:570][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.21.37:571][356]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:21:37 PM)
+[2017.12.22-10.21.37:571][356]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.21.37:572][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001590s)
+[2017.12.22-10.21.37:573][356]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.21.37:573][356]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2017.12.22-10.21.37:573][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002853s)
+[2017.12.22-10.21.37:647][356]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.21.37:662][356]LogInit: FAudioDevice initialized.
+[2017.12.22-10.21.37:697][356]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.21.37:698][356]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.21.37
+[2017.12.22-10.21.37:698][356]LogWorld: Bringing up level for play took: 0.000870
+[2017.12.22-10.21.37:700][356]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.823
+[2017.12.22-10.21.45:711][272]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.22-10.21.46:120][302]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.12.22-10.21.47:344][408]Cmd: DELETE
+[2017.12.22-10.21.47:344][408]Cmd: ACTOR DELETE
+[2017.12.22-10.21.47:346][408]LogEditorActor: Deleted Actor: CameraActor
+[2017.12.22-10.21.47:455][408]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2017.12.22-10.21.48:446][525]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.21.48:471][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.21.48:472][525]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:21:48 PM)
+[2017.12.22-10.21.48:472][525]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.21.48:473][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001346s)
+[2017.12.22-10.21.48:474][525]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.21.48:474][525]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2017.12.22-10.21.48:474][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002565s)
+[2017.12.22-10.21.48:552][525]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.21.48:568][525]LogInit: FAudioDevice initialized.
+[2017.12.22-10.21.48:599][525]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.21.48:600][525]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.21.48
+[2017.12.22-10.21.48:600][525]LogWorld: Bringing up level for play took: 0.000914
+[2017.12.22-10.21.48:602][525]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.275
+[2017.12.22-10.22.00:451][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platform1" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform1.uasset" SILENT=true
+[2017.12.22-10.22.00:602][820]LogSavePackage: Save=149.01ms
+[2017.12.22-10.22.00:603][820]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/Platform1C7C7ED384CDCAC19FB652C8AFC8C8716.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform1.uasset'
+[2017.12.22-10.22.00:607][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platform1.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: On branch master
+[2017.12.22-10.22.08:271][540]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-10.22.08:271][540]SourceControl: Changes to be committed:
+[2017.12.22-10.22.08:271][540]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-10.22.08:271][540]SourceControl: 	renamed:    Content/Blueprints/BowlingHud.uasset -> Content/Blueprints/BowlerHud.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	new file:   Content/Blueprints/PlatType.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Content/Blueprints/Platform.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	new file:   Content/Blueprints/Platform1.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	new file:   Content/Blueprints/PlatformEnum.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	deleted:    Content/Blueprints/Score.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	new file:   Content/Blueprints/Timer1.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	deleted:    Content/HUD/BowlerHud.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	deleted:    Content/HUD/BowlingHud.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	deleted:    Content/HUD/Timer.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: Changes not staged for commit:
+[2017.12.22-10.22.08:271][540]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.22-10.22.08:271][540]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Config/DefaultInput.ini
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Content/Blueprints/BowlerBallGameMode.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Content/Blueprints/BowlerHud.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Content/Maps/TestPlatform.umap
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Content/Maps/TestPlatform_BuiltData.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Platform_Auto1.uasset
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto1.umap
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto2.umap
+[2017.12.22-10.22.08:271][540]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-10.22.08:272][540]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-10.22.08:272][540]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-10.22.08:272][540]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-10.22.08:272][540]SourceControl: Untracked files:
+[2017.12.22-10.22.08:272][540]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Autosaves/Game/Blueprints/ThirdPersonGameMode_Auto2.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-02-37-25.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-31-52.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-37-07.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-38-51.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-44-40.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-49-56.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-56-31.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-36-37.umap
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-49-56.umap
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-56-57.umap
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-03-07-55.umap
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-36-37.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-56-57.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/ThirdPersonCharacter_2017-12-22-03-07-55.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/ThirdPersonCharacter_2017-12-22-03-20-22.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/ThirdPersonGameMode_2017-12-22-03-07-55.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-32-27.uasset
+[2017.12.22-10.22.08:272][540]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-37-58.uasset
+[2017.12.22-10.22.09:237][540]LogMetaData: Removing '/Game/Blueprints/PlatformRight.SKEL_PlatformRight_C' ref from Metadata '/Game/Blueprints/Platform1.PackageMetaData'
+[2017.12.22-10.22.09:237][540]LogMetaData: Removing '/Game/Blueprints/PlatformRight.PlatformRight_C' ref from Metadata '/Game/Blueprints/Platform1.PackageMetaData'
+[2017.12.22-10.22.09:296][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformRight" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset" SILENT=true
+[2017.12.22-10.22.09:451][540]LogSavePackage: Save=151.67ms
+[2017.12.22-10.22.09:451][540]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformRight3D296C95451D79F498122AAAB2C4225D.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset'
+[2017.12.22-10.22.09:457][540]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.22.18:996][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformLeft" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformLeft.uasset" SILENT=true
+[2017.12.22-10.22.19:148][346]LogSavePackage: Save=149.13ms
+[2017.12.22-10.22.19:149][346]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformLeftE01F0F56499FD8A2670D6BB54AD03B80.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformLeft.uasset'
+[2017.12.22-10.22.19:154][346]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformLeft.uasset
+[2017.12.22-10.22.40:861][332]BlueprintLog: New page: Compile PlatformRight
+[2017.12.22-10.22.41:942][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformRight" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset" SILENT=true
+[2017.12.22-10.22.42:105][356]LogSavePackage: Save=143.30ms
+[2017.12.22-10.22.42:105][356]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformRightCCEA4949429CC04A593124BCC12641AE.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset'
+[2017.12.22-10.22.42:110][356]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.22.50:300][176]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.22.50:326][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.22.50:326][176]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:22:50 PM)
+[2017.12.22-10.22.50:326][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.22.50:328][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001674s)
+[2017.12.22-10.22.50:329][176]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.22.50:329][176]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2017.12.22-10.22.50:329][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002957s)
+[2017.12.22-10.22.50:401][176]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.22.50:417][176]LogInit: FAudioDevice initialized.
+[2017.12.22-10.22.50:455][176]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.22.50:457][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.22.50
+[2017.12.22-10.22.50:457][176]LogWorld: Bringing up level for play took: 0.000903
+[2017.12.22-10.22.50:459][176]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.419
+[2017.12.22-10.23.10:465][904]BlueprintLog: New page: Compile PlatformRight
+[2017.12.22-10.23.12:348][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformRight" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset" SILENT=true
+[2017.12.22-10.23.12:506][970]LogSavePackage: Save=144.79ms
+[2017.12.22-10.23.12:506][970]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformRight88D72D1541C19CD5A7E1C7B95E1DC066.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset'
+[2017.12.22-10.23.12:511][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.23.13:707][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.23.13:738][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.23.13:739][ 71]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:23:13 PM)
+[2017.12.22-10.23.13:739][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.23.13:740][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001547s)
+[2017.12.22-10.23.13:741][ 71]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.23.13:741][ 71]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.12.22-10.23.13:741][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002585s)
+[2017.12.22-10.23.13:825][ 71]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.23.13:840][ 71]LogInit: FAudioDevice initialized.
+[2017.12.22-10.23.13:873][ 71]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.23.13:874][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.23.13
+[2017.12.22-10.23.13:875][ 71]LogWorld: Bringing up level for play took: 0.000832
+[2017.12.22-10.23.13:876][ 71]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.999
+[2017.12.22-10.23.21:007][847]LogEditorViewport: Clicking on Actor (LMB): Platform_C (Platform)
+[2017.12.22-10.23.22:048][958]Cmd: DELETE
+[2017.12.22-10.23.22:048][958]Cmd: ACTOR DELETE
+[2017.12.22-10.23.22:050][958]LogEditorActor: Deleted Actor: Platform_C
+[2017.12.22-10.23.22:122][958]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2017.12.22-10.23.23:189][ 78]LogEditorViewport: Clicking on Actor (LMB): PlatformRight_C (PlatformRight)
+[2017.12.22-10.23.29:037][701]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.22-10.23.29:644][766]LogEditorViewport: Clicking on Actor (LMB): PlatformLeft_C (PlatformLeft)
+[2017.12.22-10.23.33:206][152]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.22-10.23.41:329][ 11]Cmd: DELETE
+[2017.12.22-10.23.41:329][ 11]Cmd: ACTOR DELETE
+[2017.12.22-10.23.41:331][ 11]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.22-10.23.41:403][ 11]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2017.12.22-10.23.42:837][183]Cmd: TRANSACTION UNDO
+[2017.12.22-10.23.42:837][183]LogEditorTransaction: Undo Delete Actors
+[2017.12.22-10.23.51:589][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.22-10.24.04:239][504]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.24.04:268][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.24.04:268][504]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:24:04 PM)
+[2017.12.22-10.24.04:268][504]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.24.04:270][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001495s)
+[2017.12.22-10.24.04:270][504]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.24.04:271][504]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2017.12.22-10.24.04:271][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002594s)
+[2017.12.22-10.24.04:351][504]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.24.04:367][504]LogInit: FAudioDevice initialized.
+[2017.12.22-10.24.04:400][504]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.24.04:402][504]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.24.04
+[2017.12.22-10.24.04:402][504]LogWorld: Bringing up level for play took: 0.000772
+[2017.12.22-10.24.04:404][504]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform -0.474
+[2017.12.22-10.25.20:081][208]BlueprintLog: New page: Compile PlatformLeft
+[2017.12.22-10.25.24:232][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformLeft" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformLeft.uasset" SILENT=true
+[2017.12.22-10.25.24:401][486]LogSavePackage: Save=145.30ms
+[2017.12.22-10.25.24:401][486]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformLeft974989E74F0FA57BFB8338AE865F0249.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformLeft.uasset'
+[2017.12.22-10.25.24:406][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformLeft.uasset
+[2017.12.22-10.25.37:052][441]BlueprintLog: New page: Compile PlatformRight
+[2017.12.22-10.25.38:055][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlatformRight" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset" SILENT=true
+[2017.12.22-10.25.38:214][448]LogSavePackage: Save=146.45ms
+[2017.12.22-10.25.38:214][448]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformRightCAF0A759444B1FA526B7BB84EF83DE35.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset'
+[2017.12.22-10.25.38:219][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.25.38:798][487]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.22-10.25.39:305][531]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-10.25.39:339][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-10.25.39:339][531]PIE: New page: PIE session: TestPlatform (Dec 21, 2017, 8:25:39 PM)
+[2017.12.22-10.25.39:339][531]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestPlatform
+[2017.12.22-10.25.39:341][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001596s)
+[2017.12.22-10.25.39:341][531]LogAIModule: Creating AISystem for world TestPlatform
+[2017.12.22-10.25.39:342][531]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2017.12.22-10.25.39:342][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestPlatform.TestPlatform to /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform (0.002781s)
+[2017.12.22-10.25.39:425][531]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-10.25.39:441][531]LogInit: FAudioDevice initialized.
+[2017.12.22-10.25.39:473][531]LogLoad: Game class is 'BowlerBallGameMode_C'
+[2017.12.22-10.25.39:474][531]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestPlatform.TestPlatform up for play (max tick rate 0) at 2017.12.22-03.25.39
+[2017.12.22-10.25.39:475][531]LogWorld: Bringing up level for play took: 0.000738
+[2017.12.22-10.25.39:476][531]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestPlatform 0.599
+[2017.12.22-10.26.31:216][620]SourceControl: On branch master
+[2017.12.22-10.26.31:216][620]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-10.26.31:216][620]SourceControl: Changes to be committed:
+[2017.12.22-10.26.31:216][620]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-10.26.31:216][620]SourceControl: 	renamed:    Content/Blueprints/BowlingHud.uasset -> Content/Blueprints/BowlerHud.uasset
+[2017.12.22-10.26.31:216][620]SourceControl: 	new file:   Content/Blueprints/PlatType.uasset
+[2017.12.22-10.26.31:216][620]SourceControl: 	modified:   Content/Blueprints/Platform.uasset
+[2017.12.22-10.26.31:216][620]SourceControl: 	new file:   Content/Blueprints/Platform1.uasset
+[2017.12.22-10.26.31:216][620]SourceControl: 	new file:   Content/Blueprints/PlatformEnum.uasset
+[2017.12.22-10.26.31:216][620]SourceControl: 	new file:   Content/Blueprints/PlatformLeft.uasset
+[2017.12.22-10.26.31:216][620]SourceControl: 	new file:   Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.26.31:216][620]SourceControl: 	deleted:    Content/Blueprints/Score.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	new file:   Content/Blueprints/Timer1.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	deleted:    Content/HUD/BowlerHud.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	deleted:    Content/HUD/BowlingHud.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	deleted:    Content/HUD/Timer.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: Changes not staged for commit:
+[2017.12.22-10.26.31:217][620]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.22-10.26.31:217][620]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Config/DefaultInput.ini
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Blueprints/BowlerBallGameMode.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Blueprints/BowlerHud.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Blueprints/PlatformLeft.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Maps/TestPlatform.umap
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Content/Maps/TestPlatform_BuiltData.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Platform_Auto1.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto1.umap
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto2.umap
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-10.26.31:217][620]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-10.26.31:217][620]SourceControl: Untracked files:
+[2017.12.22-10.26.31:217][620]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Autosaves/Game/Blueprints/ThirdPersonGameMode_Auto2.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-02-37-25.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-31-52.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-37-07.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/PlatformLeft_2017-12-22-03-25-24.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/PlatformRight_2017-12-22-03-22-41.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-38-51.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-44-40.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-49-56.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-56-31.uasset
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-36-37.umap
+[2017.12.22-10.26.31:217][620]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-49-56.umap
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-56-57.umap
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-03-07-55.umap
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-36-37.uasset
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-56-57.uasset
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/ThirdPersonCharacter_2017-12-22-03-07-55.uasset
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/ThirdPersonCharacter_2017-12-22-03-20-22.uasset
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/ThirdPersonGameMode_2017-12-22-03-07-55.uasset
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-32-27.uasset
+[2017.12.22-10.26.31:218][620]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-37-58.uasset
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:ReceiveTick' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:PlatType' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:Left' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:Right' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:FlipTime' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:Up' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:Down' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:StartRotation' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:PlatformMesh' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:792][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.SKEL_PlatformLeft_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:PlatType' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:Left' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:Right' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:FlipTime' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:Up' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:Down' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:StartRotation' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:PlatformMesh' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:ReceiveTick' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:793][620]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformLeft.PlatformLeft_C:ExecuteUbergraph_PlatformLeft' ref from Metadata '/Game/Blueprints/PlatformLeft.PackageMetaData'
+[2017.12.22-10.26.31:836][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/PlatformLeft" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platforms/PlatformLeft.uasset" SILENT=true
+[2017.12.22-10.26.32:024][620]LogSavePackage: Save=185.73ms
+[2017.12.22-10.26.32:025][620]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformLeft10059D6B4D42189BF4ECBE821E1DD090.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platforms/PlatformLeft.uasset'
+[2017.12.22-10.26.32:031][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platforms/PlatformLeft.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: On branch master
+[2017.12.22-10.26.38:141][981]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-10.26.38:141][981]SourceControl: Changes to be committed:
+[2017.12.22-10.26.38:141][981]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-10.26.38:141][981]SourceControl: 	renamed:    Content/Blueprints/BowlingHud.uasset -> Content/Blueprints/BowlerHud.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	new file:   Content/Blueprints/PlatType.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Blueprints/Platform.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	new file:   Content/Blueprints/Platform1.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	new file:   Content/Blueprints/PlatformEnum.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	new file:   Content/Blueprints/PlatformLeft.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	new file:   Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	new file:   Content/Blueprints/Platforms/PlatformLeft.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	deleted:    Content/Blueprints/Score.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	new file:   Content/Blueprints/Timer1.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	deleted:    Content/HUD/BowlerHud.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	deleted:    Content/HUD/BowlingHud.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	deleted:    Content/HUD/Timer.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: Changes not staged for commit:
+[2017.12.22-10.26.38:141][981]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.22-10.26.38:141][981]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Config/DefaultInput.ini
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Blueprints/BowlerBallGameMode.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Blueprints/BowlerHud.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Blueprints/PlatformRight.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Blueprints/Timer.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Maps/TestPlatform.umap
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Content/Maps/TestPlatform_BuiltData.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Platform_Auto1.uasset
+[2017.12.22-10.26.38:141][981]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto1.umap
+[2017.12.22-10.26.38:142][981]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/TestPlatform_Auto2.umap
+[2017.12.22-10.26.38:142][981]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-10.26.38:142][981]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-10.26.38:142][981]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-10.26.38:142][981]SourceControl: 	modified:   Saved/Logs/BowlerBall.log
+[2017.12.22-10.26.38:142][981]SourceControl: Untracked files:
+[2017.12.22-10.26.38:142][981]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Autosaves/Game/Blueprints/ThirdPersonGameMode_Auto2.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/BowlerBallGameMode_2017-12-22-02-37-25.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-31-52.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/BowlerHud_2017-12-22-02-37-07.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/PlatformLeft_2017-12-22-03-25-24.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/PlatformRight_2017-12-22-03-22-41.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-38-51.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-44-40.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-49-56.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/Platform_2017-12-22-02-56-31.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-36-37.umap
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-49-56.umap
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-02-56-57.umap
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/TestPlatform_2017-12-22-03-07-55.umap
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-36-37.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/TestPlatform_BuiltData_2017-12-22-02-56-57.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/ThirdPersonCharacter_2017-12-22-03-07-55.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/ThirdPersonCharacter_2017-12-22-03-20-22.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/ThirdPersonGameMode_2017-12-22-03-07-55.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-32-27.uasset
+[2017.12.22-10.26.38:142][981]SourceControl: 	Saved/Backup/Timer_2017-12-22-02-37-58.uasset
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:ExecuteUbergraph_PlatformRight' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:ReceiveTick' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:PlatformMesh' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:StartRotation' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:Down' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:Up' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:FlipTime' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:Right' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:Left' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.PlatformRight_C:PlatType' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:PlatformMesh' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:StartRotation' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:Down' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:Up' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:FlipTime' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:728][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:Right' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:729][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:Left' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:729][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:PlatType' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:729][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:ReceiveTick' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:729][981]LogMetaData: Removing '/Game/Blueprints/Platforms/PlatformRight.SKEL_PlatformRight_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/PlatformRight.PackageMetaData'
+[2017.12.22-10.26.38:770][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Platforms/PlatformRight" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platforms/PlatformRight.uasset" SILENT=true
+[2017.12.22-10.26.38:927][981]LogSavePackage: Save=153.85ms
+[2017.12.22-10.26.38:927][981]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/PlatformRight85C2EF9740DEF467D7513F9EF02EDA2C.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platforms/PlatformRight.uasset'
+[2017.12.22-10.26.38:933][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Blueprints/Platforms/PlatformRight.uasset
+[2017.12.22-10.26.43:066][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestPlatform" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.22-10.26.43:230][254]LogSavePackage: Save=78.23ms
+[2017.12.22-10.26.43:230][254]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatform497BF0D04995429FD2F16783DCF1B4B5.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap'
+[2017.12.22-10.26.43:239][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform.umap
+[2017.12.22-10.26.43:430][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestPlatform_BuiltData" FILE="../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset" SILENT=true
+[2017.12.22-10.26.43:472][254]LogSavePackage: Save=20.69ms
+[2017.12.22-10.26.43:472][254]LogSavePackage: Moving '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Saved/TestPlatform_BuiltData6E64029E48F9FC829DFB33838B859B82.tmp' to '../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset'
+[2017.12.22-10.26.43:474][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Tyson/Desktop/Unreal/GitHub/BowlerBall/Content/Maps/TestPlatform_BuiltData.uasset
